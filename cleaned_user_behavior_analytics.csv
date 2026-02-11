@@ -1,0 +1,309 @@
+session_id,user_id,timestamp,page_url,page_title,page_type,time_on_page_seconds,scroll_depth_percentage,bounce_rate,exit_rate,page_views_in_session,session_duration_minutes,traffic_source,device_type,browser,operating_system,screen_resolution,geographic_location,new_vs_returning,user_engagement_score,conversion_funnel_stage
+SES20240101001,USR10001,2024-01-01 08:15:23,/smart-home-devices,Smart Home Devices - Best Deals,Category,45,75,0,0,3,8.5,Organic Search,Desktop,Chrome,Windows 10,1920x1080,New York US,New,7.2,Awareness
+SES20240101001,USR10001,2024-01-01 08:16:08,/product/echo-dot-4th-gen,Echo Dot 4th Gen Review,Product,120,85,0,0,3,8.5,Organic Search,Desktop,Chrome,Windows 10,1920x1080,New York US,New,8.5,Interest
+SES20240101001,USR10001,2024-01-01 08:18:08,/amazon-redirect,Amazon Redirect,Redirect,5,0,0,1,3,8.5,Organic Search,Desktop,Chrome,Windows 10,1920x1080,New York US,New,9.1,Action
+SES20240101002,USR10002,2024-01-01 09:22:15,/streaming-devices,Best Streaming Devices 2024,Category,32,60,0,0,2,5.2,Social Media,Mobile,Safari,iOS 15,375x812,Los Angeles US,New,6.8,Awareness
+SES20240101002,USR10002,2024-01-01 09:22:47,/product/fire-tv-stick-4k,Fire TV Stick 4K Review,Product,95,70,0,1,2,5.2,Social Media,Mobile,Safari,iOS 15,375x812,Los Angeles US,New,7.9,Interest
+SES20240101003,USR10003,2024-01-01 10:45:30,/kitchen-appliances,Kitchen Appliances Guide,Category,67,85,0,0,4,12.3,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Toronto CA,Returning,8.1,Awareness
+SES20240101003,USR10003,2024-01-01 10:46:37,/product/instant-pot-duo,Instant Pot Duo Review,Product,156,90,0,0,4,12.3,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Toronto CA,Returning,8.7,Interest
+SES20240101003,USR10003,2024-01-01 10:49:13,/cooking-tips,Pressure Cooking Tips,Content,89,65,0,0,4,12.3,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Toronto CA,Returning,7.5,Consideration
+SES20240101003,USR10003,2024-01-01 10:50:42,/amazon-redirect,Amazon Redirect,Redirect,3,0,0,1,4,12.3,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Toronto CA,Returning,9.2,Action
+SES20240101004,USR10004,2024-01-01 11:30:45,/audio-devices,Best Audio Devices,Category,28,45,0,0,2,4.8,Social Media,Mobile,Chrome,Android 12,412x915,London UK,New,6.3,Awareness
+SES20240101004,USR10004,2024-01-01 11:31:13,/product/airpods-pro-2nd-gen,AirPods Pro 2nd Gen Review,Product,118,80,0,1,2,4.8,Social Media,Mobile,Chrome,Android 12,412x915,London UK,New,8.2,Interest
+SES20240101005,USR10005,2024-01-01 12:18:12,/small-appliances,Small Kitchen Appliances,Category,52,70,0,0,3,7.1,Video Platform,Desktop,Firefox,Windows 11,1920x1080,Sydney AU,New,7.4,Awareness
+SES20240101005,USR10005,2024-01-01 12:19:04,/product/ninja-foodi-blender,Ninja Foodi Personal Blender,Product,98,75,0,0,3,7.1,Video Platform,Desktop,Firefox,Windows 11,1920x1080,Sydney AU,New,8.0,Interest
+SES20240101005,USR10005,2024-01-01 12:20:42,/amazon-redirect,Amazon Redirect,Redirect,4,0,0,1,3,7.1,Video Platform,Desktop,Firefox,Windows 11,1920x1080,Sydney AU,New,8.8,Action
+SES20240101006,USR10006,2024-01-01 13:25:33,/home-security,Home Security Systems,Category,78,90,0,0,3,9.2,Organic Search,Tablet,Safari,iPadOS 15,1024x1366,Chicago US,New,8.3,Awareness
+SES20240101006,USR10006,2024-01-01 13:26:51,/product/ring-video-doorbell-4,Ring Video Doorbell 4 Review,Product,145,85,0,0,3,9.2,Organic Search,Tablet,Safari,iPadOS 15,1024x1366,Chicago US,New,8.9,Interest
+SES20240101006,USR10006,2024-01-01 13:29:16,/amazon-redirect,Amazon Redirect,Redirect,6,0,0,1,3,9.2,Organic Search,Tablet,Safari,iPadOS 15,1024x1366,Chicago US,New,9.4,Action
+SES20240101007,USR10007,2024-01-01 14:42:18,/fitness-trackers,Best Fitness Trackers 2024,Category,41,55,0,0,2,6.3,Social Media,Mobile,Safari,iOS 15,375x812,Miami US,New,6.9,Awareness
+SES20240101007,USR10007,2024-01-01 14:43:59,/product/fitbit-charge-5,Fitbit Charge 5 Review,Product,102,70,0,1,2,6.3,Social Media,Mobile,Safari,iOS 15,375x812,Miami US,New,7.8,Interest
+SES20240101008,USR10008,2024-01-01 15:55:27,/headphones,Premium Headphones Guide,Category,63,80,0,0,4,11.7,Social Media,Desktop,Edge,Windows 10,1920x1080,Berlin DE,Returning,7.8,Awareness
+SES20240101008,USR10008,2024-01-01 15:56:30,/product/sony-wh1000xm4,Sony WH-1000XM4 Review,Product,134,88,0,0,4,11.7,Social Media,Desktop,Edge,Windows 10,1920x1080,Berlin DE,Returning,8.6,Interest
+SES20240101008,USR10008,2024-01-01 15:58:44,/audio-comparison,Headphone Comparison Guide,Content,76,65,0,0,4,11.7,Social Media,Desktop,Edge,Windows 10,1920x1080,Berlin DE,Returning,7.9,Consideration
+SES20240101008,USR10008,2024-01-01 16:00:00,/amazon-redirect,Amazon Redirect,Redirect,4,0,0,1,4,11.7,Social Media,Desktop,Edge,Windows 10,1920x1080,Berlin DE,Returning,9.0,Action
+SES20240101009,USR10009,2024-01-01 16:33:44,/coffee-makers,Best Coffee Makers,Category,38,65,0,0,2,4.9,Organic Search,Desktop,Chrome,macOS Monterey,2560x1440,Vancouver CA,New,7.1,Awareness
+SES20240101009,USR10009,2024-01-01 16:34:22,/product/keurig-k-mini,Keurig K-Mini Review,Product,87,75,0,1,2,4.9,Organic Search,Desktop,Chrome,macOS Monterey,2560x1440,Vancouver CA,New,8.1,Interest
+SES20240101010,USR10010,2024-01-01 17:20:55,/portable-chargers,Portable Charger Reviews,Category,25,40,0,0,2,3.8,Social Media,Mobile,Chrome,Android 12,412x915,Houston US,New,6.2,Awareness
+SES20240101010,USR10010,2024-01-01 17:21:20,/product/anker-powercore-10000,Anker PowerCore 10000 Review,Product,73,60,0,1,2,3.8,Social Media,Mobile,Chrome,Android 12,412x915,Houston US,New,7.4,Interest
+SES20240102001,USR10011,2024-01-02 08:45:12,/vacuum-cleaners,Best Vacuum Cleaners 2024,Category,55,75,0,0,3,8.1,Organic Search,Desktop,Chrome,Windows 10,1920x1080,Phoenix US,Returning,7.6,Awareness
+SES20240102001,USR10011,2024-01-02 08:46:07,/product/shark-navigator,Shark Navigator Review,Product,125,80,0,0,3,8.1,Organic Search,Desktop,Chrome,Windows 10,1920x1080,Phoenix US,Returning,8.4,Interest
+SES20240102001,USR10011,2024-01-02 08:48:12,/amazon-redirect,Amazon Redirect,Redirect,5,0,0,1,3,8.1,Organic Search,Desktop,Chrome,Windows 10,1920x1080,Phoenix US,Returning,9.1,Action
+SES20240102002,USR10012,2024-01-02 09:30:25,/streaming-devices,Streaming Device Comparison,Category,42,60,0,0,2,5.5,Social Media,Mobile,Safari,iOS 15,375x812,Seattle US,Returning,7.0,Awareness
+SES20240102002,USR10012,2024-01-02 09:31:07,/product/roku-ultra-4k,Roku Ultra 4K Review,Product,108,70,0,1,2,5.5,Social Media,Mobile,Safari,iOS 15,375x812,Seattle US,Returning,8.2,Interest
+SES20240102003,USR10013,2024-01-02 10:15:38,/air-fryers,Air Fryer Buying Guide,Category,72,85,0,0,4,13.2,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Montreal CA,New,8.0,Awareness
+SES20240102003,USR10013,2024-01-02 10:16:50,/product/cuisinart-air-fryer,Cuisinart Air Fryer Toaster Oven,Product,167,90,0,0,4,13.2,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Montreal CA,New,8.8,Interest
+SES20240102003,USR10013,2024-01-02 10:19:37,/healthy-cooking,Healthy Cooking Tips,Content,94,70,0,0,4,13.2,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Montreal CA,New,7.7,Consideration
+SES20240102003,USR10013,2024-01-02 10:21:11,/amazon-redirect,Amazon Redirect,Redirect,4,0,0,1,4,13.2,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Montreal CA,New,9.3,Action
+SES20240102004,USR10014,2024-01-02 11:22:47,/smartwatches,Best Smartwatches 2024,Category,58,70,0,0,3,9.8,Video Platform,Tablet,Safari,iPadOS 15,1024x1366,Dallas US,New,7.5,Awareness
+SES20240102004,USR10014,2024-01-02 11:23:45,/product/apple-watch-series-8,Apple Watch Series 8 Review,Product,142,85,0,0,3,9.8,Video Platform,Tablet,Safari,iPadOS 15,1024x1366,Dallas US,New,8.7,Interest
+SES20240102004,USR10014,2024-01-02 11:26:07,/amazon-redirect,Amazon Redirect,Redirect,7,0,0,1,3,9.8,Video Platform,Tablet,Safari,iPadOS 15,1024x1366,Dallas US,New,9.2,Action
+SES20240102005,USR10015,2024-01-02 12:45:33,/cordless-vacuums,Cordless Vacuum Reviews,Category,81,90,0,0,3,10.5,Organic Search,Desktop,Firefox,Windows 11,1920x1080,Manchester UK,New,8.2,Awareness
+SES20240102005,USR10015,2024-01-02 12:46:54,/product/dyson-v8,Dyson V8 Cordless Vacuum,Product,156,85,0,0,3,10.5,Organic Search,Desktop,Firefox,Windows 11,1920x1080,Manchester UK,New,8.9,Interest
+SES20240102005,USR10015,2024-01-02 12:49:30,/amazon-redirect,Amazon Redirect,Redirect,6,0,0,1,3,10.5,Organic Search,Desktop,Firefox,Windows 11,1920x1080,Manchester UK,New,9.4,Action
+SES20240102006,USR10016,2024-01-02 13:18:22,/noise-cancelling-headphones,Noise Cancelling Headphones,Category,35,55,0,0,2,4.2,Audio Platform,Mobile,Chrome,Android 12,412x915,Melbourne AU,New,6.8,Awareness
+SES20240102006,USR10016,2024-01-02 13:18:57,/product/bose-qc45,Bose QuietComfort 45 Review,Product,89,65,0,1,2,4.2,Audio Platform,Mobile,Chrome,Android 12,412x915,Melbourne AU,New,7.6,Interest
+SES20240102007,USR10017,2024-01-02 14:35:15,/ice-cream-makers,Ice Cream Maker Reviews,Category,48,65,0,0,3,7.8,Social Media,Mobile,Safari,iOS 15,375x812,Atlanta US,Returning,7.2,Awareness
+SES20240102007,USR10017,2024-01-02 14:36:03,/product/ninja-creami,Ninja Creami Ice Cream Maker,Product,115,75,0,0,3,7.8,Social Media,Mobile,Safari,iOS 15,375x812,Atlanta US,Returning,8.3,Interest
+SES20240102007,USR10017,2024-01-02 14:37:58,/amazon-redirect,Amazon Redirect,Redirect,5,0,0,1,3,7.8,Social Media,Mobile,Safari,iOS 15,375x812,Atlanta US,Returning,8.9,Action
+SES20240102008,USR10018,2024-01-02 15:52:41,/smart-tvs,Smart TV Buying Guide,Category,69,80,0,0,4,12.1,Social Media,Desktop,Edge,Windows 10,1920x1080,Denver US,Returning,7.9,Awareness
+SES20240102008,USR10018,2024-01-02 15:53:50,/product/samsung-55-4k-tv,"Samsung 55"" 4K Smart TV",Product,148,85,0,0,4,12.1,Social Media,Desktop,Edge,Windows 10,1920x1080,Denver US,Returning,8.6,Interest
+SES20240102008,USR10018,2024-01-02 15:56:18,/tv-setup-guide,TV Setup Guide,Content,87,70,0,0,4,12.1,Social Media,Desktop,Edge,Windows 10,1920x1080,Denver US,Returning,7.8,Consideration
+SES20240102008,USR10018,2024-01-02 15:57:45,/amazon-redirect,Amazon Redirect,Redirect,4,0,0,1,4,12.1,Social Media,Desktop,Edge,Windows 10,1920x1080,Denver US,Returning,9.1,Action
+SES20240102009,USR10019,2024-01-02 16:28:33,/blenders,High Performance Blenders,Category,62,75,0,0,3,8.9,Organic Search,Desktop,Chrome,macOS Monterey,2560x1440,Calgary CA,New,7.7,Awareness
+SES20240102009,USR10019,2024-01-02 16:29:35,/product/vitamix-5200,Vitamix 5200 Blender Review,Product,134,80,0,0,3,8.9,Organic Search,Desktop,Chrome,macOS Monterey,2560x1440,Calgary CA,New,8.5,Interest
+SES20240102009,USR10019,2024-01-02 16:31:49,/amazon-redirect,Amazon Redirect,Redirect,5,0,0,1,3,8.9,Organic Search,Desktop,Chrome,macOS Monterey,2560x1440,Calgary CA,New,9.0,Action
+SES20240102010,USR10020,2024-01-02 17:44:28,/gps-watches,GPS Running Watches,Category,33,50,0,0,2,5.1,Fitness Platform,Mobile,Chrome,Android 12,412x915,Portland US,Returning,6.9,Awareness
+SES20240102010,USR10020,2024-01-02 17:45:01,/product/garmin-forerunner-245,Garmin Forerunner 245 Review,Product,96,70,0,1,2,5.1,Fitness Platform,Mobile,Chrome,Android 12,412x915,Portland US,Returning,8.0,Interest
+SES20240103001,USR10021,2024-01-03 08:12:15,/smart-home-devices,Smart Home Devices - Best Deals,Category,52,80,0,0,3,9.2,Organic Search,Desktop,Chrome,Windows 10,1920x1080,Chicago US,New,7.5,Awareness
+SES20240103001,USR10021,2024-01-03 08:13:07,/product/echo-dot-4th-gen,Echo Dot 4th Gen Review,Product,135,85,0,0,3,9.2,Organic Search,Desktop,Chrome,Windows 10,1920x1080,Chicago US,New,8.8,Interest
+SES20240103001,USR10021,2024-01-03 08:15:22,/amazon-redirect,Amazon Redirect,Redirect,6,0,0,1,3,9.2,Organic Search,Desktop,Chrome,Windows 10,1920x1080,Chicago US,New,9.3,Action
+SES20240103002,USR10022,2024-01-03 09:25:33,/streaming-devices,Best Streaming Devices 2024,Category,38,65,0,0,2,6.1,Video Platform,Mobile,Safari,iOS 15,375x812,Miami US,New,7.1,Awareness
+SES20240103002,USR10022,2024-01-03 09:26:11,/product/fire-tv-stick-4k,Fire TV Stick 4K Review,Product,102,75,0,1,2,6.1,Video Platform,Mobile,Safari,iOS 15,375x812,Miami US,New,8.2,Interest
+SES20240103003,USR10023,2024-01-03 10:48:22,/kitchen-appliances,Kitchen Appliances Guide,Category,71,90,0,0,4,14.5,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Vancouver CA,New,8.3,Awareness
+SES20240103003,USR10023,2024-01-03 10:49:33,/product/instant-pot-duo,Instant Pot Duo Review,Product,168,95,0,0,4,14.5,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Vancouver CA,New,9.1,Interest
+SES20240103003,USR10023,2024-01-03 10:52:21,/pressure-cooking-guide,Pressure Cooking Guide,Content,95,75,0,0,4,14.5,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Vancouver CA,New,8.0,Consideration
+SES20240103003,USR10023,2024-01-03 10:53:56,/amazon-redirect,Amazon Redirect,Redirect,4,0,0,1,4,14.5,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Vancouver CA,New,9.4,Action
+SES20240103004,USR10024,2024-01-03 11:33:44,/audio-devices,Best Audio Devices,Category,31,50,0,0,2,5.8,Social Media,Mobile,Chrome,Android 12,412x915,London UK,New,6.8,Awareness
+SES20240103004,USR10024,2024-01-03 11:34:15,/product/airpods-pro-2nd-gen,AirPods Pro 2nd Gen Review,Product,125,80,0,1,2,5.8,Social Media,Mobile,Chrome,Android 12,412x915,London UK,New,8.5,Interest
+SES20240103005,USR10025,2024-01-03 12:22:18,/small-appliances,Small Kitchen Appliances,Category,48,70,0,0,3,8.3,Social Media,Desktop,Firefox,Windows 11,1920x1080,Sydney AU,New,7.6,Awareness
+SES20240103005,USR10025,2024-01-03 12:23:06,/product/ninja-foodi-blender,Ninja Foodi Personal Blender,Product,112,80,0,0,3,8.3,Social Media,Desktop,Firefox,Windows 11,1920x1080,Sydney AU,New,8.4,Interest
+SES20240103005,USR10025,2024-01-03 12:24:58,/amazon-redirect,Amazon Redirect,Redirect,5,0,0,1,3,8.3,Social Media,Desktop,Firefox,Windows 11,1920x1080,Sydney AU,New,9.0,Action
+SES20240103006,USR10026,2024-01-03 13:45:12,/home-security,Home Security Systems,Category,65,85,0,0,3,10.2,Organic Search,Tablet,Safari,iPadOS 15,1024x1366,Seattle US,New,8.1,Awareness
+SES20240103006,USR10026,2024-01-03 13:46:17,/product/ring-video-doorbell-4,Ring Video Doorbell 4 Review,Product,152,90,0,0,3,10.2,Organic Search,Tablet,Safari,iPadOS 15,1024x1366,Seattle US,New,9.0,Interest
+SES20240103006,USR10026,2024-01-03 13:48:49,/amazon-redirect,Amazon Redirect,Redirect,7,0,0,1,3,10.2,Organic Search,Tablet,Safari,iPadOS 15,1024x1366,Seattle US,New,9.5,Action
+SES20240103007,USR10027,2024-01-03 14:18:55,/fitness-trackers,Best Fitness Trackers 2024,Category,42,60,0,0,2,7.1,Social Media,Mobile,Safari,iOS 15,375x812,Denver US,New,7.2,Awareness
+SES20240103007,USR10027,2024-01-03 14:19:37,/product/fitbit-charge-5,Fitbit Charge 5 Review,Product,108,75,0,1,2,7.1,Social Media,Mobile,Safari,iOS 15,375x812,Denver US,New,8.3,Interest
+SES20240103008,USR10028,2024-01-03 15:32:27,/headphones,Premium Headphones Guide,Category,69,85,0,0,4,13.8,Social Media,Desktop,Edge,Windows 10,1920x1080,Berlin DE,Returning,8.2,Awareness
+SES20240103008,USR10028,2024-01-03 15:33:36,/product/sony-wh1000xm4,Sony WH-1000XM4 Review,Product,145,90,0,0,4,13.8,Social Media,Desktop,Edge,Windows 10,1920x1080,Berlin DE,Returning,8.9,Interest
+SES20240103008,USR10028,2024-01-03 15:36:01,/headphone-comparison,Headphone Comparison Guide,Content,82,70,0,0,4,13.8,Social Media,Desktop,Edge,Windows 10,1920x1080,Berlin DE,Returning,8.1,Consideration
+SES20240103008,USR10028,2024-01-03 15:37:23,/amazon-redirect,Amazon Redirect,Redirect,5,0,0,1,4,13.8,Social Media,Desktop,Edge,Windows 10,1920x1080,Berlin DE,Returning,9.2,Action
+SES20240103009,USR10029,2024-01-03 16:44:33,/coffee-makers,Best Coffee Makers,Category,44,70,0,0,2,6.4,Organic Search,Desktop,Chrome,macOS Monterey,2560x1440,Calgary CA,New,7.4,Awareness
+SES20240103009,USR10029,2024-01-03 16:45:17,/product/keurig-k-mini,Keurig K-Mini Review,Product,95,80,0,1,2,6.4,Organic Search,Desktop,Chrome,macOS Monterey,2560x1440,Calgary CA,New,8.2,Interest
+SES20240103010,USR10030,2024-01-03 17:28:44,/portable-chargers,Portable Charger Reviews,Category,28,45,0,0,2,4.5,Social Media,Mobile,Chrome,Android 12,412x915,Atlanta US,New,6.5,Awareness
+SES20240103010,USR10030,2024-01-03 17:29:12,/product/anker-powercore-10000,Anker PowerCore 10000 Review,Product,78,65,0,1,2,4.5,Social Media,Mobile,Chrome,Android 12,412x915,Atlanta US,New,7.6,Interest
+SES20240104001,USR10031,2024-01-04 08:15:22,/vacuum-cleaners,Best Vacuum Cleaners 2024,Category,58,80,0,0,3,9.5,Organic Search,Desktop,Chrome,Windows 10,1920x1080,Phoenix US,Returning,7.9,Awareness
+SES20240104001,USR10031,2024-01-04 08:16:20,/product/shark-navigator,Shark Navigator Review,Product,132,85,0,0,3,9.5,Organic Search,Desktop,Chrome,Windows 10,1920x1080,Phoenix US,Returning,8.7,Interest
+SES20240104001,USR10031,2024-01-04 08:18:32,/amazon-redirect,Amazon Redirect,Redirect,6,0,0,1,3,9.5,Organic Search,Desktop,Chrome,Windows 10,1920x1080,Phoenix US,Returning,9.3,Action
+SES20240104002,USR10032,2024-01-04 09:42:15,/streaming-devices,Streaming Device Comparison,Category,45,65,0,0,2,6.8,Social Media,Mobile,Safari,iOS 15,375x812,Portland US,Returning,7.3,Awareness
+SES20240104002,USR10032,2024-01-04 09:43:00,/product/roku-ultra-4k,Roku Ultra 4K Review,Product,115,75,0,1,2,6.8,Social Media,Mobile,Safari,iOS 15,375x812,Portland US,Returning,8.4,Interest
+SES20240104003,USR10033,2024-01-04 10:25:38,/air-fryers,Air Fryer Buying Guide,Category,78,90,0,0,4,15.2,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Montreal CA,New,8.4,Awareness
+SES20240104003,USR10033,2024-01-04 10:26:56,/product/cuisinart-air-fryer,Cuisinart Air Fryer Toaster Oven,Product,175,95,0,0,4,15.2,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Montreal CA,New,9.2,Interest
+SES20240104003,USR10033,2024-01-04 10:29:51,/air-fryer-recipes,Air Fryer Recipe Collection,Content,102,80,0,0,4,15.2,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Montreal CA,New,8.1,Consideration
+SES20240104003,USR10033,2024-01-04 10:31:30,/amazon-redirect,Amazon Redirect,Redirect,5,0,0,1,4,15.2,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Montreal CA,New,9.5,Action
+SES20240104004,USR10034,2024-01-04 11:38:47,/smartwatches,Best Smartwatches 2024,Category,62,75,0,0,3,11.3,Video Platform,Tablet,Safari,iPadOS 15,1024x1366,Dallas US,New,7.8,Awareness
+SES20240104004,USR10034,2024-01-04 11:39:49,/product/apple-watch-series-8,Apple Watch Series 8 Review,Product,148,90,0,0,3,11.3,Video Platform,Tablet,Safari,iPadOS 15,1024x1366,Dallas US,New,8.9,Interest
+SES20240104004,USR10034,2024-01-04 11:42:17,/amazon-redirect,Amazon Redirect,Redirect,8,0,0,1,3,11.3,Video Platform,Tablet,Safari,iPadOS 15,1024x1366,Dallas US,New,9.4,Action
+SES20240104005,USR10035,2024-01-04 12:52:33,/cordless-vacuums,Cordless Vacuum Reviews,Category,85,95,0,0,3,12.1,Organic Search,Desktop,Firefox,Windows 11,1920x1080,Manchester UK,New,8.6,Awareness
+SES20240104005,USR10035,2024-01-04 12:53:58,/product/dyson-v8,Dyson V8 Cordless Vacuum,Product,162,90,0,0,3,12.1,Organic Search,Desktop,Firefox,Windows 11,1920x1080,Manchester UK,New,9.1,Interest
+SES20240104005,USR10035,2024-01-04 12:56:40,/amazon-redirect,Amazon Redirect,Redirect,7,0,0,1,3,12.1,Organic Search,Desktop,Firefox,Windows 11,1920x1080,Manchester UK,New,9.6,Action
+SES20240104006,USR10036,2024-01-04 13:22:18,/noise-cancelling-headphones,Noise Cancelling Headphones,Category,38,60,0,0,2,5.2,Audio Platform,Mobile,Chrome,Android 12,412x915,Melbourne AU,New,7.0,Awareness
+SES20240104006,USR10036,2024-01-04 13:22:56,/product/bose-qc45,Bose QuietComfort 45 Review,Product,94,70,0,1,2,5.2,Audio Platform,Mobile,Chrome,Android 12,412x915,Melbourne AU,New,7.8,Interest
+SES20240104007,USR10037,2024-01-04 14:45:15,/ice-cream-makers,Ice Cream Maker Reviews,Category,52,70,0,0,3,9.1,Social Media,Mobile,Safari,iOS 15,375x812,Atlanta US,Returning,7.5,Awareness
+SES20240104007,USR10037,2024-01-04 14:46:07,/product/ninja-creami,Ninja Creami Ice Cream Maker,Product,122,80,0,0,3,9.1,Social Media,Mobile,Safari,iOS 15,375x812,Atlanta US,Returning,8.6,Interest
+SES20240104007,USR10037,2024-01-04 14:48:09,/amazon-redirect,Amazon Redirect,Redirect,6,0,0,1,3,9.1,Social Media,Mobile,Safari,iOS 15,375x812,Atlanta US,Returning,9.1,Action
+SES20240104008,USR10038,2024-01-04 15:18:41,/smart-tvs,Smart TV Buying Guide,Category,72,85,0,0,4,14.3,Social Media,Desktop,Edge,Windows 10,1920x1080,Denver US,Returning,8.3,Awareness
+SES20240104008,USR10038,2024-01-04 15:19:53,/product/samsung-55-4k-tv,"Samsung 55"" 4K Smart TV",Product,155,90,0,0,4,14.3,Social Media,Desktop,Edge,Windows 10,1920x1080,Denver US,Returning,8.9,Interest
+SES20240104008,USR10038,2024-01-04 15:22:28,/tv-mounting-guide,TV Mounting Guide,Content,91,75,0,0,4,14.3,Social Media,Desktop,Edge,Windows 10,1920x1080,Denver US,Returning,8.0,Consideration
+SES20240104008,USR10038,2024-01-04 15:23:59,/amazon-redirect,Amazon Redirect,Redirect,5,0,0,1,4,14.3,Social Media,Desktop,Edge,Windows 10,1920x1080,Denver US,Returning,9.3,Action
+SES20240104009,USR10039,2024-01-04 16:33:28,/blenders,High Performance Blenders,Category,68,80,0,0,3,10.7,Organic Search,Desktop,Chrome,macOS Monterey,2560x1440,Calgary CA,New,8.1,Awareness
+SES20240104009,USR10039,2024-01-04 16:34:36,/product/vitamix-5200,Vitamix 5200 Blender Review,Product,142,85,0,0,3,10.7,Organic Search,Desktop,Chrome,macOS Monterey,2560x1440,Calgary CA,New,8.8,Interest
+SES20240104009,USR10039,2024-01-04 16:36:58,/amazon-redirect,Amazon Redirect,Redirect,6,0,0,1,3,10.7,Organic Search,Desktop,Chrome,macOS Monterey,2560x1440,Calgary CA,New,9.2,Action
+SES20240104010,USR10040,2024-01-04 17:55:22,/gps-watches,GPS Running Watches,Category,35,55,0,0,2,6.3,Fitness Platform,Mobile,Chrome,Android 12,412x915,Portland US,Returning,7.1,Awareness
+SES20240104010,USR10040,2024-01-04 17:55:57,/product/garmin-forerunner-245,Garmin Forerunner 245 Review,Product,103,75,0,1,2,6.3,Fitness Platform,Mobile,Chrome,Android 12,412x915,Portland US,Returning,8.2,Interest
+SES20240105001,USR10041,2024-01-05 08:22:15,/air-fryers,Healthy Cooking with Air Fryers,Category,49,75,0,0,3,8.8,Organic Search,Desktop,Chrome,Windows 10,1920x1080,Chicago US,New,7.7,Awareness
+SES20240105001,USR10041,2024-01-05 08:23:04,/product/instant-vortex-plus,Instant Vortex Plus Air Fryer,Product,118,80,0,0,3,8.8,Organic Search,Desktop,Chrome,Windows 10,1920x1080,Chicago US,New,8.5,Interest
+SES20240105001,USR10041,2024-01-05 08:25:02,/amazon-redirect,Amazon Redirect,Redirect,5,0,0,1,3,8.8,Organic Search,Desktop,Chrome,Windows 10,1920x1080,Chicago US,New,9.0,Action
+SES20240105002,USR10042,2024-01-05 09:35:28,/sous-vide,Sous Vide Cooking Guide,Category,41,65,0,0,2,6.9,Video Platform,Mobile,Safari,iOS 15,375x812,Miami US,New,7.3,Awareness
+SES20240105002,USR10042,2024-01-05 09:36:09,/product/anova-sous-vide,Anova Sous Vide Precision Cooker,Product,107,75,0,1,2,6.9,Video Platform,Mobile,Safari,iOS 15,375x812,Miami US,New,8.3,Interest
+SES20240105003,USR10043,2024-01-05 10:48:33,/espresso-machines,Professional Espresso Machines,Category,73,85,0,0,4,16.1,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Vancouver CA,New,8.4,Awareness
+SES20240105003,USR10043,2024-01-05 10:49:46,/product/breville-barista-express,Breville Barista Express Review,Product,178,90,0,0,4,16.1,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Vancouver CA,New,9.3,Interest
+SES20240105003,USR10043,2024-01-05 10:52:44,/coffee-brewing-guide,Coffee Brewing Techniques,Content,105,80,0,0,4,16.1,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Vancouver CA,New,8.2,Consideration
+SES20240105003,USR10043,2024-01-05 10:54:29,/amazon-redirect,Amazon Redirect,Redirect,6,0,0,1,4,16.1,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Vancouver CA,New,9.6,Action
+SES20240105004,USR10044,2024-01-05 11:22:44,/electric-toothbrushes,Electric Toothbrush Reviews,Category,29,50,0,0,2,5.1,Referral,Mobile,Chrome,Android 12,412x915,London UK,New,6.7,Awareness
+SES20240105004,USR10044,2024-01-05 11:23:13,/product/philips-sonicare,Philips Sonicare ProtectiveClean,Product,87,65,0,1,2,5.1,Referral,Mobile,Chrome,Android 12,412x915,London UK,New,7.5,Interest
+SES20240105005,USR10045,2024-01-05 12:15:22,/massage-devices,Recovery and Massage Tools,Category,55,75,0,0,3,9.7,Social Media,Desktop,Firefox,Windows 11,1920x1080,Sydney AU,New,7.8,Awareness
+SES20240105005,USR10045,2024-01-05 12:16:17,/product/theragun-elite,Theragun Elite Review,Product,128,80,0,0,3,9.7,Social Media,Desktop,Firefox,Windows 11,1920x1080,Sydney AU,New,8.6,Interest
+SES20240105005,USR10045,2024-01-05 12:18:25,/amazon-redirect,Amazon Redirect,Redirect,7,0,0,1,3,9.7,Social Media,Desktop,Firefox,Windows 11,1920x1080,Sydney AU,New,9.2,Action
+SES20240105006,USR10046,2024-01-05 13:38:15,/smart-home-devices,Smart Home Setup Guide,Category,61,80,0,0,3,10.8,Social Media,Tablet,Safari,iPadOS 15,1024x1366,Seattle US,New,8.0,Awareness
+SES20240105006,USR10046,2024-01-05 13:39:16,/product/echo-dot-4th-gen,Echo Dot 4th Gen Smart Speaker,Product,142,85,0,0,3,10.8,Social Media,Tablet,Safari,iPadOS 15,1024x1366,Seattle US,New,8.8,Interest
+SES20240105006,USR10046,2024-01-05 13:41:38,/amazon-redirect,Amazon Redirect,Redirect,8,0,0,1,3,10.8,Social Media,Tablet,Safari,iPadOS 15,1024x1366,Seattle US,New,9.4,Action
+SES20240105007,USR10047,2024-01-05 14:25:33,/streaming-devices,Cord Cutting Solutions,Category,43,65,0,0,2,6.5,Streaming Platform,Mobile,Safari,iOS 15,375x812,Denver US,New,7.2,Awareness
+SES20240105007,USR10047,2024-01-05 14:26:16,/product/fire-tv-stick-4k,Fire TV Stick 4K Streaming,Product,98,70,0,1,2,6.5,Streaming Platform,Mobile,Safari,iOS 15,375x812,Denver US,New,8.1,Interest
+SES20240105008,USR10048,2024-01-05 15:42:18,/kitchen-appliances,Essential Kitchen Appliances,Category,76,90,0,0,4,13.9,Social Media,Desktop,Edge,Windows 10,1920x1080,Berlin DE,Returning,8.5,Awareness
+SES20240105008,USR10048,2024-01-05 15:43:34,/product/instant-pot-duo,Instant Pot Duo Multi-Cooker,Product,162,95,0,0,4,13.9,Social Media,Desktop,Edge,Windows 10,1920x1080,Berlin DE,Returning,9.1,Interest
+SES20240105008,USR10048,2024-01-05 15:46:16,/meal-prep-guide,Meal Prep with Instant Pot,Content,98,80,0,0,4,13.9,Social Media,Desktop,Edge,Windows 10,1920x1080,Berlin DE,Returning,8.3,Consideration
+SES20240105008,USR10048,2024-01-05 15:47:54,/amazon-redirect,Amazon Redirect,Redirect,5,0,0,1,4,13.9,Social Media,Desktop,Edge,Windows 10,1920x1080,Berlin DE,Returning,9.4,Action
+SES20240105009,USR10049,2024-01-05 16:18:44,/audio-devices,Premium Audio Equipment,Category,39,60,0,0,2,5.8,Referral,Desktop,Chrome,macOS Monterey,2560x1440,Calgary CA,New,7.1,Awareness
+SES20240105009,USR10049,2024-01-05 16:19:23,/product/airpods-pro-2nd-gen,AirPods Pro 2nd Generation,Product,95,70,0,1,2,5.8,Referral,Desktop,Chrome,macOS Monterey,2560x1440,Calgary CA,New,8.0,Interest
+SES20240105010,USR10050,2024-01-05 17:33:27,/small-appliances,Compact Kitchen Solutions,Category,32,55,0,0,2,4.9,Social Media,Mobile,Chrome,Android 12,412x915,Atlanta US,New,6.8,Awareness
+SES20240105010,USR10050,2024-01-05 17:33:59,/product/ninja-foodi-blender,Ninja Foodi Personal Blender,Product,81,65,0,1,2,4.9,Social Media,Mobile,Chrome,Android 12,412x915,Atlanta US,New,7.6,Interest
+SES20240106001,USR10051,2024-01-06 08:45:12,/home-security,Smart Home Security Guide,Category,67,85,0,0,3,11.2,Organic Search,Desktop,Chrome,Windows 10,1920x1080,Phoenix US,Returning,8.1,Awareness
+SES20240106001,USR10051,2024-01-06 08:46:19,/product/ring-video-doorbell-4,Ring Video Doorbell 4 Smart Security,Product,158,90,0,0,3,11.2,Organic Search,Desktop,Chrome,Windows 10,1920x1080,Phoenix US,Returning,8.9,Interest
+SES20240106001,USR10051,2024-01-06 08:48:57,/amazon-redirect,Amazon Redirect,Redirect,7,0,0,1,3,11.2,Organic Search,Desktop,Chrome,Windows 10,1920x1080,Phoenix US,Returning,9.5,Action
+SES20240106002,USR10052,2024-01-06 09:22:25,/fitness-trackers,Advanced Fitness Tracking,Category,44,65,0,0,2,6.8,Fitness Platform,Mobile,Safari,iOS 15,375x812,Seattle US,New,7.2,Awareness
+SES20240106002,USR10052,2024-01-06 09:23:09,/product/fitbit-charge-5,Fitbit Charge 5 Health Tracker,Product,109,75,0,1,2,6.8,Fitness Platform,Mobile,Safari,iOS 15,375x812,Seattle US,New,8.1,Interest
+SES20240106003,USR10053,2024-01-06 10:35:38,/headphones,Premium Audio Experience,Category,71,80,0,0,4,14.7,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Montreal CA,New,8.2,Awareness
+SES20240106003,USR10053,2024-01-06 10:36:49,/product/sony-wh1000xm4,Sony WH-1000XM4 Noise Cancelling,Product,156,85,0,0,4,14.7,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Montreal CA,New,8.8,Interest
+SES20240106003,USR10053,2024-01-06 10:39:25,/audio-comparison,Headphone Comparison Tool,Content,89,70,0,0,4,14.7,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Montreal CA,New,8.0,Consideration
+SES20240106003,USR10053,2024-01-06 10:40:54,/amazon-redirect,Amazon Redirect,Redirect,5,0,0,1,4,14.7,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Montreal CA,New,9.2,Action
+SES20240106004,USR10054,2024-01-06 11:48:47,/coffee-makers,Perfect Coffee Solutions,Category,56,70,0,0,3,9.8,Video Platform,Tablet,Safari,iPadOS 15,1024x1366,Dallas US,New,7.6,Awareness
+SES20240106004,USR10054,2024-01-06 11:49:43,/product/keurig-k-mini,Keurig K-Mini Single Serve,Product,132,80,0,0,3,9.8,Video Platform,Tablet,Safari,iPadOS 15,1024x1366,Dallas US,New,8.4,Interest
+SES20240106004,USR10054,2024-01-06 11:51:55,/amazon-redirect,Amazon Redirect,Redirect,6,0,0,1,3,9.8,Video Platform,Tablet,Safari,iPadOS 15,1024x1366,Dallas US,New,8.9,Action
+SES20240106005,USR10055,2024-01-06 12:25:33,/portable-chargers,Mobile Power Solutions,Category,31,50,0,0,2,5.3,Direct,Desktop,Firefox,Windows 11,1920x1080,Manchester UK,New,6.7,Awareness
+SES20240106005,USR10055,2024-01-06 12:26:04,/product/anker-powercore-10000,Anker PowerCore 10000 Portable,Product,86,65,0,1,2,5.3,Direct,Desktop,Firefox,Windows 11,1920x1080,Manchester UK,New,7.5,Interest
+SES20240106006,USR10056,2024-01-06 13:42:18,/vacuum-cleaners,Home Cleaning Solutions,Category,58,75,0,0,3,9.5,Organic Search,Mobile,Chrome,Android 12,412x915,Melbourne AU,New,7.8,Awareness
+SES20240106006,USR10056,2024-01-06 13:43:16,/product/shark-navigator,Shark Navigator Lift-Away Pro,Product,125,80,0,0,3,9.5,Organic Search,Mobile,Chrome,Android 12,412x915,Melbourne AU,New,8.3,Interest
+SES20240106006,USR10056,2024-01-06 13:45:21,/amazon-redirect,Amazon Redirect,Redirect,6,0,0,1,3,9.5,Organic Search,Mobile,Chrome,Android 12,412x915,Melbourne AU,New,8.8,Action
+SES20240106007,USR10057,2024-01-06 14:18:44,/streaming-devices,Entertainment Streaming Hub,Category,47,65,0,0,2,6.2,Referral,Mobile,Safari,iOS 15,375x812,Atlanta US,Returning,7.1,Awareness
+SES20240106007,USR10057,2024-01-06 14:19:31,/product/roku-ultra-4k,Roku Ultra 4K Premium Streaming,Product,105,75,0,1,2,6.2,Referral,Mobile,Safari,iOS 15,375x812,Atlanta US,Returning,8.0,Interest
+SES20240106008,USR10058,2024-01-06 15:35:22,/air-fryers,Healthy Air Frying Guide,Category,82,90,0,0,4,15.8,Social Media,Desktop,Edge,Windows 10,1920x1080,Denver US,Returning,8.5,Awareness
+SES20240106008,USR10058,2024-01-06 15:36:44,/product/cuisinart-air-fryer,Cuisinart Air Fryer Toaster Combo,Product,172,95,0,0,4,15.8,Social Media,Desktop,Edge,Windows 10,1920x1080,Denver US,Returning,9.1,Interest
+SES20240106008,USR10058,2024-01-06 15:39:36,/air-fryer-recipes,Healthy Air Fryer Recipes,Content,108,80,0,0,4,15.8,Social Media,Desktop,Edge,Windows 10,1920x1080,Denver US,Returning,8.3,Consideration
+SES20240106008,USR10058,2024-01-06 15:41:18,/amazon-redirect,Amazon Redirect,Redirect,5,0,0,1,4,15.8,Social Media,Desktop,Edge,Windows 10,1920x1080,Denver US,Returning,9.4,Action
+SES20240106009,USR10059,2024-01-06 16:22:15,/smartwatches,Wearable Technology Guide,Category,64,75,0,0,3,11.5,Video Platform,Desktop,Chrome,macOS Monterey,2560x1440,Calgary CA,New,7.9,Awareness
+SES20240106009,USR10059,2024-01-06 16:23:19,/product/apple-watch-series-8,Apple Watch Series 8 Health Monitor,Product,151,85,0,0,3,11.5,Video Platform,Desktop,Chrome,macOS Monterey,2560x1440,Calgary CA,New,8.7,Interest
+SES20240106009,USR10059,2024-01-06 16:25:50,/amazon-redirect,Amazon Redirect,Redirect,8,0,0,1,3,11.5,Video Platform,Desktop,Chrome,macOS Monterey,2560x1440,Calgary CA,New,9.3,Action
+SES20240106010,USR10060,2024-01-06 17:45:33,/cordless-vacuums,Cordless Cleaning Innovation,Category,69,85,0,0,3,12.3,Organic Search,Mobile,Chrome,Android 12,412x915,Portland US,Returning,8.1,Awareness
+SES20240106010,USR10060,2024-01-06 17:46:42,/product/dyson-v8,Dyson V8 Cordless Vacuum Pro,Product,148,90,0,0,3,12.3,Organic Search,Mobile,Chrome,Android 12,412x915,Portland US,Returning,8.8,Interest
+SES20240106010,USR10060,2024-01-06 17:49:15,/amazon-redirect,Amazon Redirect,Redirect,7,0,0,1,3,12.3,Organic Search,Mobile,Chrome,Android 12,412x915,Portland US,Returning,9.4,Action
+SES20240107001,USR10061,2024-01-07 08:12:44,/noise-cancelling-headphones,Premium Noise Cancellation,Category,42,60,0,0,2,5.8,Audio Platform,Desktop,Chrome,Windows 10,1920x1080,Chicago US,New,7.0,Awareness
+SES20240107001,USR10061,2024-01-07 08:13:26,/product/bose-qc45,Bose QuietComfort 45 Review,Product,96,70,0,1,2,5.8,Audio Platform,Desktop,Chrome,Windows 10,1920x1080,Chicago US,New,7.8,Interest
+SES20240107002,USR10062,2024-01-07 09:28:15,/ice-cream-makers,Homemade Ice Cream Solutions,Category,54,70,0,0,3,9.3,Social Media,Mobile,Safari,iOS 15,375x812,Miami US,New,7.4,Awareness
+SES20240107002,USR10062,2024-01-07 09:29:09,/product/ninja-creami,Ninja Creami Ice Cream Innovation,Product,125,80,0,0,3,9.3,Social Media,Mobile,Safari,iOS 15,375x812,Miami US,New,8.5,Interest
+SES20240107002,USR10062,2024-01-07 09:31:14,/amazon-redirect,Amazon Redirect,Redirect,6,0,0,1,3,9.3,Social Media,Mobile,Safari,iOS 15,375x812,Miami US,New,9.0,Action
+SES20240107003,USR10063,2024-01-07 10:45:22,/smart-tvs,Home Entertainment Center,Category,75,85,0,0,4,16.2,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Vancouver CA,New,8.3,Awareness
+SES20240107003,USR10063,2024-01-07 10:46:37,/product/samsung-55-4k-tv,"Samsung 55"" 4K Smart TV Ultra",Product,162,90,0,0,4,16.2,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Vancouver CA,New,8.9,Interest
+SES20240107003,USR10063,2024-01-07 10:49:19,/tv-setup-guide,Smart TV Setup Guide,Content,94,75,0,0,4,16.2,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Vancouver CA,New,8.1,Consideration
+SES20240107003,USR10063,2024-01-07 10:50:56,/amazon-redirect,Amazon Redirect,Redirect,5,0,0,1,4,16.2,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Vancouver CA,New,9.3,Action
+SES20240107004,USR10064,2024-01-07 11:33:38,/blenders,High-Performance Blending,Category,68,80,0,0,3,10.9,Referral,Mobile,Chrome,Android 12,412x915,London UK,New,8.0,Awareness
+SES20240107004,USR10064,2024-01-07 11:34:46,/product/vitamix-5200,Vitamix 5200 Professional Blender,Product,143,85,0,0,3,10.9,Referral,Mobile,Chrome,Android 12,412x915,London UK,New,8.7,Interest
+SES20240107004,USR10064,2024-01-07 11:37:15,/amazon-redirect,Amazon Redirect,Redirect,6,0,0,1,3,10.9,Referral,Mobile,Chrome,Android 12,412x915,London UK,New,9.1,Action
+SES20240107005,USR10065,2024-01-07 12:22:47,/gps-watches,GPS Fitness Technology,Category,38,55,0,0,2,6.1,Fitness Platform,Desktop,Firefox,Windows 11,1920x1080,Sydney AU,Returning,7.1,Awareness
+SES20240107005,USR10065,2024-01-07 12:23:25,/product/garmin-forerunner-245,Garmin Forerunner 245 GPS Pro,Product,101,75,0,1,2,6.1,Fitness Platform,Desktop,Firefox,Windows 11,1920x1080,Sydney AU,Returning,8.1,Interest
+SES20240107006,USR10066,2024-01-07 13:45:15,/air-fryers,Compact Air Frying Solutions,Category,51,75,0,0,3,8.9,Social Media,Tablet,Safari,iPadOS 15,1024x1366,Seattle US,New,7.6,Awareness
+SES20240107006,USR10066,2024-01-07 13:46:06,/product/instant-vortex-plus,Instant Vortex Plus Air Fryer,Product,121,80,0,0,3,8.9,Social Media,Tablet,Safari,iPadOS 15,1024x1366,Seattle US,New,8.4,Interest
+SES20240107006,USR10066,2024-01-07 13:48:07,/amazon-redirect,Amazon Redirect,Redirect,6,0,0,1,3,8.9,Social Media,Tablet,Safari,iPadOS 15,1024x1366,Seattle US,New,8.9,Action
+SES20240107007,USR10067,2024-01-07 14:18:33,/sous-vide,Precision Cooking Technology,Category,45,65,0,0,2,7.2,Video Platform,Mobile,Safari,iOS 15,375x812,Denver US,New,7.3,Awareness
+SES20240107007,USR10067,2024-01-07 14:19:18,/product/anova-sous-vide,Anova Sous Vide Precision Cooker,Product,111,75,0,1,2,7.2,Video Platform,Mobile,Safari,iOS 15,375x812,Denver US,New,8.2,Interest
+SES20240107008,USR10068,2024-01-07 15:32:18,/espresso-machines,Barista-Quality Coffee,Category,78,85,0,0,4,17.1,Social Media,Desktop,Edge,Windows 10,1920x1080,Berlin DE,Returning,8.4,Awareness
+SES20240107008,USR10068,2024-01-07 15:33:36,/product/breville-barista-express,Breville Barista Express Machine,Product,185,90,0,0,4,17.1,Social Media,Desktop,Edge,Windows 10,1920x1080,Berlin DE,Returning,9.2,Interest
+SES20240107008,USR10068,2024-01-07 15:36:41,/coffee-brewing-guide,Professional Coffee Brewing,Content,112,80,0,0,4,17.1,Social Media,Desktop,Edge,Windows 10,1920x1080,Berlin DE,Returning,8.3,Consideration
+SES20240107008,USR10068,2024-01-07 15:38:33,/amazon-redirect,Amazon Redirect,Redirect,6,0,0,1,4,17.1,Social Media,Desktop,Edge,Windows 10,1920x1080,Berlin DE,Returning,9.5,Action
+SES20240107009,USR10069,2024-01-07 16:25:44,/electric-toothbrushes,Advanced Oral Care,Category,33,50,0,0,2,5.6,Referral,Desktop,Chrome,macOS Monterey,2560x1440,Calgary CA,New,6.8,Awareness
+SES20240107009,USR10069,2024-01-07 16:26:17,/product/philips-sonicare,Philips Sonicare ProtectiveClean,Product,91,65,0,1,2,5.6,Referral,Desktop,Chrome,macOS Monterey,2560x1440,Calgary CA,New,7.6,Interest
+SES20240107010,USR10070,2024-01-07 17:42:22,/massage-devices,Recovery and Wellness Tools,Category,59,75,0,0,3,10.1,Social Media,Mobile,Chrome,Android 12,412x915,Atlanta US,New,7.7,Awareness
+SES20240107010,USR10070,2024-01-07 17:43:21,/product/theragun-elite,Theragun Elite Percussive Therapy,Product,132,80,0,0,3,10.1,Social Media,Mobile,Chrome,Android 12,412x915,Atlanta US,New,8.5,Interest
+SES20240107010,USR10070,2024-01-07 17:45:33,/amazon-redirect,Amazon Redirect,Redirect,7,0,0,1,3,10.1,Social Media,Mobile,Chrome,Android 12,412x915,Atlanta US,New,9.1,Action
+SES20240108001,USR10071,2024-01-08 08:35:15,/smart-home-devices,Smart Home Automation,Category,63,80,0,0,3,11.8,Organic Search,Desktop,Chrome,Windows 10,1920x1080,Phoenix US,New,8.0,Awareness
+SES20240108001,USR10071,2024-01-08 08:36:18,/product/echo-dot-4th-gen,Echo Dot 4th Gen Voice Assistant,Product,145,85,0,0,3,11.8,Organic Search,Desktop,Chrome,Windows 10,1920x1080,Phoenix US,New,8.7,Interest
+SES20240108001,USR10071,2024-01-08 08:38:43,/amazon-redirect,Amazon Redirect,Redirect,8,0,0,1,3,11.8,Organic Search,Desktop,Chrome,Windows 10,1920x1080,Phoenix US,New,9.3,Action
+SES20240108002,USR10072,2024-01-08 09:48:28,/streaming-devices,Cord Cutting Entertainment,Category,46,65,0,0,2,6.9,Streaming Platform,Mobile,Safari,iOS 15,375x812,Portland US,New,7.2,Awareness
+SES20240108002,USR10072,2024-01-08 09:49:14,/product/fire-tv-stick-4k,Fire TV Stick 4K Ultra Streaming,Product,102,70,0,1,2,6.9,Streaming Platform,Mobile,Safari,iOS 15,375x812,Portland US,New,8.0,Interest
+SES20240108003,USR10073,2024-01-08 10:22:33,/kitchen-appliances,Essential Kitchen Technology,Category,81,90,0,0,4,15.9,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Montreal CA,Returning,8.4,Awareness
+SES20240108003,USR10073,2024-01-08 10:23:54,/product/instant-pot-duo,Instant Pot Duo Multi-Cooker Pro,Product,169,95,0,0,4,15.9,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Montreal CA,Returning,9.0,Interest
+SES20240108003,USR10073,2024-01-08 10:26:43,/pressure-cooking-tips,Pressure Cooking Mastery,Content,101,80,0,0,4,15.9,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Montreal CA,Returning,8.2,Consideration
+SES20240108003,USR10073,2024-01-08 10:28:24,/amazon-redirect,Amazon Redirect,Redirect,5,0,0,1,4,15.9,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Montreal CA,Returning,9.4,Action
+SES20240108004,USR10074,2024-01-08 11:45:44,/audio-devices,Premium Audio Technology,Category,41,60,0,0,2,6.3,Referral,Tablet,Safari,iPadOS 15,1024x1366,Dallas US,New,7.1,Awareness
+SES20240108004,USR10074,2024-01-08 11:46:25,/product/airpods-pro-2nd-gen,AirPods Pro 2nd Gen Premium,Product,98,70,0,1,2,6.3,Referral,Tablet,Safari,iPadOS 15,1024x1366,Dallas US,New,7.9,Interest
+SES20240108005,USR10075,2024-01-08 12:18:22,/small-appliances,Kitchen Convenience Solutions,Category,37,55,0,0,2,5.1,Direct,Desktop,Firefox,Windows 11,1920x1080,Manchester UK,New,6.9,Awareness
+SES20240108005,USR10075,2024-01-08 12:18:59,/product/ninja-foodi-blender,Ninja Foodi Personal Nutrition,Product,84,65,0,1,2,5.1,Direct,Desktop,Firefox,Windows 11,1920x1080,Manchester UK,New,7.6,Interest
+SES20240108006,USR10076,2024-01-08 13:35:15,/home-security,Smart Security Solutions,Category,74,85,0,0,3,12.1,Organic Search,Mobile,Chrome,Android 12,412x915,Melbourne AU,New,8.2,Awareness
+SES20240108006,USR10076,2024-01-08 13:36:29,/product/ring-video-doorbell-4,Ring Video Doorbell 4 Security,Product,159,90,0,0,3,12.1,Organic Search,Mobile,Chrome,Android 12,412x915,Melbourne AU,New,8.8,Interest
+SES20240108006,USR10076,2024-01-08 13:39:08,/amazon-redirect,Amazon Redirect,Redirect,8,0,0,1,3,12.1,Organic Search,Mobile,Chrome,Android 12,412x915,Melbourne AU,New,9.4,Action
+SES20240108007,USR10077,2024-01-08 14:22:38,/fitness-trackers,Advanced Health Monitoring,Category,49,60,0,0,2,7.4,Social Media,Mobile,Safari,iOS 15,375x812,Atlanta US,New,7.3,Awareness
+SES20240108007,USR10077,2024-01-08 14:23:27,/product/fitbit-charge-5,Fitbit Charge 5 Health Tracker,Product,113,75,0,1,2,7.4,Social Media,Mobile,Safari,iOS 15,375x812,Atlanta US,New,8.2,Interest
+SES20240108008,USR10078,2024-01-08 15:48:44,/headphones,Professional Audio Equipment,Category,74,80,0,0,4,16.8,Referral,Desktop,Edge,Windows 10,1920x1080,Denver US,Returning,8.3,Awareness
+SES20240108008,USR10078,2024-01-08 15:49:58,/product/sony-wh1000xm4,Sony WH-1000XM4 Professional,Product,152,85,0,0,4,16.8,Referral,Desktop,Edge,Windows 10,1920x1080,Denver US,Returning,8.9,Interest
+SES20240108008,USR10078,2024-01-08 15:52:30,/audio-reviews,Professional Audio Reviews,Content,87,70,0,0,4,16.8,Referral,Desktop,Edge,Windows 10,1920x1080,Denver US,Returning,8.1,Consideration
+SES20240108008,USR10078,2024-01-08 15:53:57,/amazon-redirect,Amazon Redirect,Redirect,5,0,0,1,4,16.8,Referral,Desktop,Edge,Windows 10,1920x1080,Denver US,Returning,9.2,Action
+SES20240108009,USR10079,2024-01-08 16:25:22,/coffee-makers,Perfect Coffee Brewing,Category,57,70,0,0,3,10.6,Social Media,Desktop,Chrome,macOS Monterey,2560x1440,Calgary CA,New,7.7,Awareness
+SES20240108009,USR10079,2024-01-08 16:26:19,/product/keurig-k-mini,Keurig K-Mini Single Serve Pro,Product,136,80,0,0,3,10.6,Social Media,Desktop,Chrome,macOS Monterey,2560x1440,Calgary CA,New,8.5,Interest
+SES20240108009,USR10079,2024-01-08 16:28:35,/amazon-redirect,Amazon Redirect,Redirect,6,0,0,1,3,10.6,Social Media,Desktop,Chrome,macOS Monterey,2560x1440,Calgary CA,New,9.0,Action
+SES20240108010,USR10080,2024-01-08 17:42:15,/portable-chargers,Mobile Power Technology,Category,29,45,0,0,2,4.8,Social Media,Mobile,Chrome,Android 12,412x915,Portland US,New,6.6,Awareness
+SES20240108010,USR10080,2024-01-08 17:42:44,/product/anker-powercore-10000,Anker PowerCore 10000 Ultra,Product,79,65,0,1,2,4.8,Social Media,Mobile,Chrome,Android 12,412x915,Portland US,New,7.5,Interest
+SES20240109001,USR10081,2024-01-09 08:15:33,/vacuum-cleaners,Advanced Cleaning Technology,Category,61,80,0,0,3,10.3,Organic Search,Desktop,Chrome,Windows 10,1920x1080,Chicago US,Returning,7.9,Awareness
+SES20240109001,USR10081,2024-01-09 08:16:34,/product/shark-navigator,Shark Navigator Lift-Away Advanced,Product,135,85,0,0,3,10.3,Organic Search,Desktop,Chrome,Windows 10,1920x1080,Chicago US,Returning,8.6,Interest
+SES20240109001,USR10081,2024-01-09 08:18:49,/amazon-redirect,Amazon Redirect,Redirect,7,0,0,1,3,10.3,Organic Search,Desktop,Chrome,Windows 10,1920x1080,Chicago US,Returning,9.2,Action
+SES20240109002,USR10082,2024-01-09 09:32:44,/streaming-devices,Premium Streaming Experience,Category,48,65,0,0,2,7.1,Streaming Platform,Mobile,Safari,iOS 15,375x812,Miami US,Returning,7.2,Awareness
+SES20240109002,USR10082,2024-01-09 09:33:32,/product/roku-ultra-4k,Roku Ultra 4K Premium Device,Product,117,75,0,1,2,7.1,Streaming Platform,Mobile,Safari,iOS 15,375x812,Miami US,Returning,8.3,Interest
+SES20240109003,USR10083,2024-01-09 10:48:22,/air-fryers,Revolutionary Air Frying,Category,83,90,0,0,4,17.3,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Vancouver CA,New,8.5,Awareness
+SES20240109003,USR10083,2024-01-09 10:49:45,/product/cuisinart-air-fryer,Cuisinart Air Fryer Toaster Pro,Product,178,95,0,0,4,17.3,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Vancouver CA,New,9.2,Interest
+SES20240109003,USR10083,2024-01-09 10:52:43,/healthy-cooking-tips,Healthy Air Fryer Cooking,Content,115,80,0,0,4,17.3,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Vancouver CA,New,8.4,Consideration
+SES20240109003,USR10083,2024-01-09 10:54:38,/amazon-redirect,Amazon Redirect,Redirect,6,0,0,1,4,17.3,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Vancouver CA,New,9.5,Action
+SES20240109004,USR10084,2024-01-09 11:25:15,/smartwatches,Wearable Health Technology,Category,66,75,0,0,3,12.7,Referral,Mobile,Chrome,Android 12,412x915,London UK,New,7.8,Awareness
+SES20240109004,USR10084,2024-01-09 11:26:21,/product/apple-watch-series-8,Apple Watch Series 8 Health Pro,Product,154,85,0,0,3,12.7,Referral,Mobile,Chrome,Android 12,412x915,London UK,New,8.7,Interest
+SES20240109004,USR10084,2024-01-09 11:28:55,/amazon-redirect,Amazon Redirect,Redirect,8,0,0,1,3,12.7,Referral,Mobile,Chrome,Android 12,412x915,London UK,New,9.3,Action
+SES20240109005,USR10085,2024-01-09 12:42:38,/cordless-vacuums,Cordless Cleaning Innovation,Category,87,85,0,0,3,13.4,Organic Search,Desktop,Firefox,Windows 11,1920x1080,Sydney AU,New,8.6,Awareness
+SES20240109005,USR10085,2024-01-09 12:44:05,/product/dyson-v8,Dyson V8 Cordless Technology,Product,165,90,0,0,3,13.4,Organic Search,Desktop,Firefox,Windows 11,1920x1080,Sydney AU,New,9.0,Interest
+SES20240109005,USR10085,2024-01-09 12:46:50,/amazon-redirect,Amazon Redirect,Redirect,7,0,0,1,3,13.4,Organic Search,Desktop,Firefox,Windows 11,1920x1080,Sydney AU,New,9.5,Action
+SES20240109006,USR10086,2024-01-09 13:18:44,/noise-cancelling-headphones,Premium Audio Isolation,Category,43,60,0,0,2,6.2,Audio Platform,Tablet,Safari,iPadOS 15,1024x1366,Seattle US,New,7.1,Awareness
+SES20240109006,USR10086,2024-01-09 13:19:27,/product/bose-qc45,Bose QuietComfort 45 Premium,Product,99,70,0,1,2,6.2,Audio Platform,Tablet,Safari,iPadOS 15,1024x1366,Seattle US,New,7.9,Interest
+SES20240109007,USR10087,2024-01-09 14:35:22,/ice-cream-makers,Artisan Ice Cream Creation,Category,56,70,0,0,3,9.7,Social Media,Mobile,Safari,iOS 15,375x812,Denver US,Returning,7.5,Awareness
+SES20240109007,USR10087,2024-01-09 14:36:18,/product/ninja-creami,Ninja Creami Ice Cream Artisan,Product,128,80,0,0,3,9.7,Social Media,Mobile,Safari,iOS 15,375x812,Denver US,Returning,8.4,Interest
+SES20240109007,USR10087,2024-01-09 14:38:26,/amazon-redirect,Amazon Redirect,Redirect,7,0,0,1,3,9.7,Social Media,Mobile,Safari,iOS 15,375x812,Denver US,Returning,9.0,Action
+SES20240109008,USR10088,2024-01-09 15:22:15,/smart-tvs,Home Entertainment Revolution,Category,76,85,0,0,4,17.8,Referral,Desktop,Edge,Windows 10,1920x1080,Berlin DE,Returning,8.4,Awareness
+SES20240109008,USR10088,2024-01-09 15:23:31,/product/samsung-55-4k-tv,"Samsung 55"" 4K Smart TV Pro",Product,167,90,0,0,4,17.8,Referral,Desktop,Edge,Windows 10,1920x1080,Berlin DE,Returning,9.0,Interest
+SES20240109008,USR10088,2024-01-09 15:26:18,/home-theater-setup,Home Theater Setup Guide,Content,96,75,0,0,4,17.8,Referral,Desktop,Edge,Windows 10,1920x1080,Berlin DE,Returning,8.2,Consideration
+SES20240109008,USR10088,2024-01-09 15:27:54,/amazon-redirect,Amazon Redirect,Redirect,5,0,0,1,4,17.8,Referral,Desktop,Edge,Windows 10,1920x1080,Berlin DE,Returning,9.3,Action
+SES20240109009,USR10089,2024-01-09 16:45:33,/blenders,Professional Blending Solutions,Category,70,80,0,0,3,11.9,Social Media,Desktop,Chrome,macOS Monterey,2560x1440,Calgary CA,New,8.1,Awareness
+SES20240109009,USR10089,2024-01-09 16:46:43,/product/vitamix-5200,Vitamix 5200 Professional Series,Product,147,85,0,0,3,11.9,Social Media,Desktop,Chrome,macOS Monterey,2560x1440,Calgary CA,New,8.8,Interest
+SES20240109009,USR10089,2024-01-09 16:49:22,/amazon-redirect,Amazon Redirect,Redirect,6,0,0,1,3,11.9,Social Media,Desktop,Chrome,macOS Monterey,2560x1440,Calgary CA,New,9.2,Action
+SES20240109010,USR10090,2024-01-09 17:32:44,/gps-watches,Advanced GPS Fitness,Category,37,55,0,0,2,6.4,Fitness Platform,Mobile,Chrome,Android 12,412x915,Atlanta US,Returning,7.0,Awareness
+SES20240109010,USR10090,2024-01-09 17:33:21,/product/garmin-forerunner-245,Garmin Forerunner 245 GPS Elite,Product,105,75,0,1,2,6.4,Fitness Platform,Mobile,Chrome,Android 12,412x915,Atlanta US,Returning,8.1,Interest
+SES20240110001,USR10091,2024-01-10 08:22:18,/air-fryers,Healthy Cooking Revolution,Category,52,75,0,0,3,9.8,Organic Search,Desktop,Chrome,Windows 10,1920x1080,Phoenix US,New,7.6,Awareness
+SES20240110001,USR10091,2024-01-10 08:23:10,/product/instant-vortex-plus,Instant Vortex Plus Compact,Product,124,80,0,0,3,9.8,Organic Search,Desktop,Chrome,Windows 10,1920x1080,Phoenix US,New,8.4,Interest
+SES20240110001,USR10091,2024-01-10 08:25:14,/amazon-redirect,Amazon Redirect,Redirect,6,0,0,1,3,9.8,Organic Search,Desktop,Chrome,Windows 10,1920x1080,Phoenix US,New,8.9,Action
+SES20240110002,USR10092,2024-01-10 09:45:33,/sous-vide,Gourmet Cooking Technology,Category,47,65,0,0,2,7.3,Video Platform,Mobile,Safari,iOS 15,375x812,Portland US,New,7.3,Awareness
+SES20240110002,USR10092,2024-01-10 09:46:20,/product/anova-sous-vide,Anova Sous Vide WiFi Precision,Product,113,75,0,1,2,7.3,Video Platform,Mobile,Safari,iOS 15,375x812,Portland US,New,8.2,Interest
+SES20240110003,USR10093,2024-01-10 10:18:44,/espresso-machines,Professional Coffee Equipment,Category,79,85,0,0,4,18.2,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Montreal CA,New,8.4,Awareness
+SES20240110003,USR10093,2024-01-10 10:20:03,/product/breville-barista-express,Breville Barista Express Pro,Product,188,90,0,0,4,18.2,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Montreal CA,New,9.3,Interest
+SES20240110003,USR10093,2024-01-10 10:23:11,/coffee-techniques,Professional Coffee Techniques,Content,118,80,0,0,4,18.2,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Montreal CA,New,8.5,Consideration
+SES20240110003,USR10093,2024-01-10 10:25:09,/amazon-redirect,Amazon Redirect,Redirect,6,0,0,1,4,18.2,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Montreal CA,New,9.6,Action
+SES20240110004,USR10094,2024-01-10 11:35:22,/electric-toothbrushes,Advanced Oral Health,Category,34,50,0,0,2,5.9,Referral,Tablet,Safari,iPadOS 15,1024x1366,Dallas US,New,6.9,Awareness
+SES20240110004,USR10094,2024-01-10 11:35:56,/product/philips-sonicare,Philips Sonicare ProtectiveClean Pro,Product,93,65,0,1,2,5.9,Referral,Tablet,Safari,iPadOS 15,1024x1366,Dallas US,New,7.7,Interest
+SES20240110005,USR10095,2024-01-10 12:22:15,/massage-devices,Athletic Recovery Technology,Category,61,75,0,0,3,10.8,Social Media,Desktop,Firefox,Windows 11,1920x1080,Manchester UK,New,7.8,Awareness
+SES20240110005,USR10095,2024-01-10 12:23:16,/product/theragun-elite,Theragun Elite Recovery Device,Product,135,80,0,0,3,10.8,Social Media,Desktop,Firefox,Windows 11,1920x1080,Manchester UK,New,8.6,Interest
+SES20240110005,USR10095,2024-01-10 12:25:31,/amazon-redirect,Amazon Redirect,Redirect,7,0,0,1,3,10.8,Social Media,Desktop,Firefox,Windows 11,1920x1080,Manchester UK,New,9.2,Action
+SES20240110006,USR10096,2024-01-10 13:48:38,/smart-home-devices,Home Automation Hub,Category,64,80,0,0,3,12.5,Direct,Mobile,Chrome,Android 12,412x915,Melbourne AU,New,8.0,Awareness
+SES20240110006,USR10096,2024-01-10 13:49:42,/product/echo-dot-4th-gen,Echo Dot 4th Gen Smart Hub,Product,148,85,0,0,3,12.5,Direct,Mobile,Chrome,Android 12,412x915,Melbourne AU,New,8.7,Interest
+SES20240110006,USR10096,2024-01-10 13:52:10,/amazon-redirect,Amazon Redirect,Redirect,8,0,0,1,3,12.5,Direct,Mobile,Chrome,Android 12,412x915,Melbourne AU,New,9.3,Action
+SES20240110007,USR10097,2024-01-10 14:25:44,/streaming-devices,Premium Entertainment Streaming,Category,50,65,0,0,2,7.6,Streaming Platform,Mobile,Safari,iOS 15,375x812,Seattle US,New,7.3,Awareness
+SES20240110007,USR10097,2024-01-10 14:26:34,/product/fire-tv-stick-4k,Fire TV Stick 4K Max Streaming,Product,106,75,0,1,2,7.6,Streaming Platform,Mobile,Safari,iOS 15,375x812,Seattle US,New,8.1,Interest
+SES20240110008,USR10098,2024-01-10 15:42:22,/kitchen-appliances,Modern Kitchen Solutions,Category,84,90,0,0,4,18.9,Social Media,Desktop,Edge,Windows 10,1920x1080,Denver US,Returning,8.5,Awareness
+SES20240110008,USR10098,2024-01-10 15:43:46,/product/instant-pot-duo,Instant Pot Duo Smart Cooker,Product,172,95,0,0,4,18.9,Social Media,Desktop,Edge,Windows 10,1920x1080,Denver US,Returning,9.1,Interest
+SES20240110008,USR10098,2024-01-10 15:46:38,/meal-planning,Smart Meal Planning Guide,Content,105,80,0,0,4,18.9,Social Media,Desktop,Edge,Windows 10,1920x1080,Denver US,Returning,8.3,Consideration
+SES20240110008,USR10098,2024-01-10 15:48:23,/amazon-redirect,Amazon Redirect,Redirect,5,0,0,1,4,18.9,Social Media,Desktop,Edge,Windows 10,1920x1080,Denver US,Returning,9.4,Action
+SES20240110009,USR10099,2024-01-10 16:18:15,/audio-devices,Wireless Audio Innovation,Category,42,60,0,0,2,6.7,Referral,Desktop,Chrome,macOS Monterey,2560x1440,Calgary CA,New,7.1,Awareness
+SES20240110009,USR10099,2024-01-10 16:18:57,/product/airpods-pro-2nd-gen,AirPods Pro 2nd Gen Spatial Audio,Product,97,70,0,1,2,6.7,Referral,Desktop,Chrome,macOS Monterey,2560x1440,Calgary CA,New,8.0,Interest
+SES20240110010,USR10100,2024-01-10 17:35:33,/small-appliances,Compact Kitchen Innovation,Category,35,55,0,0,2,5.2,Social Media,Mobile,Chrome,Android 12,412x915,Atlanta US,New,6.8,Awareness
+SES20240110010,USR10100,2024-01-10 17:36:08,/product/ninja-foodi-blender,Ninja Foodi Personal Nutrition Pro,Product,83,65,0,1,2,5.2,Social Media,Mobile,Chrome,Android 12,412x915,Atlanta US,New,7.6,Interest
+SES20240111001,USR10101,2024-01-11 08:15:44,/home-security,Advanced Security Systems,Category,68,85,0,0,3,12.8,Organic Search,Desktop,Chrome,Windows 10,1920x1080,Chicago US,New,8.1,Awareness
+SES20240111001,USR10101,2024-01-11 08:16:52,/product/ring-video-doorbell-4,Ring Video Doorbell 4 Pro Security,Product,161,90,0,0,3,12.8,Organic Search,Desktop,Chrome,Windows 10,1920x1080,Chicago US,New,8.9,Interest
+SES20240111001,USR10101,2024-01-11 08:19:33,/amazon-redirect,Amazon Redirect,Redirect,8,0,0,1,3,12.8,Organic Search,Desktop,Chrome,Windows 10,1920x1080,Chicago US,New,9.4,Action
+SES20240111002,USR10102,2024-01-11 09:32:18,/fitness-trackers,Health Monitoring Technology,Category,46,65,0,0,2,7.8,Fitness Platform,Mobile,Safari,iOS 15,375x812,Miami US,Returning,7.2,Awareness
+SES20240111002,USR10102,2024-01-11 09:33:04,/product/fitbit-charge-5,Fitbit Charge 5 Advanced Health,Product,111,75,0,1,2,7.8,Fitness Platform,Mobile,Safari,iOS 15,375x812,Miami US,Returning,8.2,Interest
+SES20240111003,USR10103,2024-01-11 10:48:33,/headphones,Audiophile Sound Experience,Category,73,80,0,0,4,19.1,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Vancouver CA,Returning,8.3,Awareness
+SES20240111003,USR10103,2024-01-11 10:49:46,/product/sony-wh1000xm4,Sony WH-1000XM4 Industry Leading,Product,159,85,0,0,4,19.1,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Vancouver CA,Returning,8.9,Interest
+SES20240111003,USR10103,2024-01-11 10:52:25,/audio-technology,Audio Technology Deep Dive,Content,92,70,0,0,4,19.1,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Vancouver CA,Returning,8.1,Consideration
+SES20240111003,USR10103,2024-01-11 10:53:57,/amazon-redirect,Amazon Redirect,Redirect,5,0,0,1,4,19.1,Social Media,Desktop,Chrome,macOS Big Sur,2560x1440,Vancouver CA,Returning,9.3,Action
+SES20240111004,USR10104,2024-01-11 11:25:22,/coffee-makers,Single Serve Coffee Innovation,Category,58,70,0,0,3,11.3,Video Platform,Tablet,Safari,iPadOS 15,1024x1366,London UK,New,7.7,Awareness
+SES20240111004,USR10104,2024-01-11 11:26:20,/product/keurig-k-mini,Keurig K-Mini Space Saving,Product,138,80,0,0,3,11.3,Video Platform,Tablet,Safari,iPadOS 15,1024x1366,London UK,New,8.5,Interest
+SES20240111004,USR10104,2024-01-11 11:28:38,/amazon-redirect,Amazon Redirect,Redirect,6,0,0,1,3,11.3,Video Platform,Tablet,Safari,iPadOS 15,1024x1366,London UK,New,9.0,Action
+SES20240111005,USR10105,2024-01-11 12:42:15,/portable-chargers,Mobile Power Solutions,Category,32,50,0,0,2,5.5,Direct,Desktop,Firefox,Windows 11,1920x1080,Sydney AU,New,6.8,Awareness
+SES20240111005,USR10105,2024-01-11 12:42:47,/product/anker-powercore-10000,Anker PowerCore 10000 Compact,Product,87,65,0,1,2,5.5,Direct,Desktop,Firefox,Windows 11,1920x1080,Sydney AU,New,7.6,Interest
+SES20240111006,USR10106,2024-01-11 13:18:44,/vacuum-cleaners,Professional Cleaning Solutions,Category,62,75,0,0,3,10.9,Organic Search,Mobile,Chrome,Android 12,412x915,Seattle US,Returning,7.9,Awareness
+SES20240111006,USR10106,2024-01-11 13:19:46,/product/shark-navigator,Shark Navigator Professional Plus,Product,137,80,0,0,3,10.9,Organic Search,Mobile,Chrome,Android 12,412x915,Seattle US,Returning,8.5,Interest
+SES20240111006,USR10106,2024-01-11 13:22:03,/amazon-redirect,Amazon Redirect,Redirect,7,0,0,1,3,10.9,Organic Search,Mobile,Chrome,Android 12,412x915,Seattle US,Returning,9.1,Action
+SES20240111007,USR10107,2024-01-11 14:35:33,/streaming-devices,4K Streaming Technology,Category,49,65,0,0,2,7.9,Referral,Mobile,Safari,iOS 15,375x812,Denver US,Returning,7.3,Awareness
+SES20240111007,USR10107,2024-01-11 14:36:22,/product/roku-ultra-4k,Roku Ultra 4K Streaming Pro,Product,108,75,0,1,2,7.9,Referral,Mobile,Safari,iOS 15,375x812,Denver US,Returning,8.2,Interest
+SES20240111008,USR10108,2024-01-11 15:22:18,/air-fryers,Convection Air Frying Technology,Category,85,90,0,0,4,19.8,Social Media,Desktop,Edge,Windows 10,1920x1080,Berlin DE,Returning,8.6,Awareness
+SES20240111008,USR10108,2024-01-11 15:23:43,/product/cuisinart-air-fryer,Cuisinart Air Fryer Toaster Ultimate,Product,181,95,0,0,4,19.8,Social Media,Desktop,Edge,Windows 10,1920x1080,Berlin DE,Returning,9.2,Interest
+SES20240111008,USR10108,2024-01-11 15:26:44,/cooking-techniques,Advanced Cooking Techniques,Content,121,80,0,0,4,19.8,Social Media,Desktop,Edge,Windows 10,1920x1080,Berlin DE,Returning,8.4,Consideration
+SES20240111008,USR10108,2024-01-11 15:28:45,/amazon-redirect,Amazon Redirect,Redirect,6,0,0,1,4,19.8,Social Media,Desktop,Edge,Windows 10,1920x1080,Berlin DE,Returning,9.5,Action
+SES20240111009,USR10109,2024-01-11 16:45:44,/smartwatches,Health Technology Wearables,Category,67,75,0,0,3,13.2,Video Platform,Desktop,Chrome,macOS Monterey,2560x1440,Calgary CA,New,7.9,Awareness
+SES20240111009,USR10109,2024-01-11 16:46:51,/product/apple-watch-series-8,Apple Watch Series 8 Health Innovation,Product,156,85,0,0,3,13.2,Video Platform,Desktop,Chrome,macOS Monterey,2560x1440,Calgary CA,New,8.8,Interest
+SES20240111009,USR10109,2024-01-11 16:49:27,/amazon-redirect,Amazon Redirect,Redirect,8,0,0,1,3,13.2,Video Platform,Desktop,Chrome,macOS Monterey,2560x1440,Calgary CA,New,9.3,Action
+SES20240111010,USR10110,2024-01-11 17:32:22,/cordless-vacuums,Wireless Cleaning Technology,Category,71,85,0,0,3,13.8,Organic Search,Mobile,Chrome,Android 12,412x915,Atlanta US,Returning,8.2,Awareness
+SES20240111010,USR10110,2024-01-11 17:33:33,/product/dyson-v8,Dyson V8 Cordless Engineering,Product,151,90,0,0,3,13.8,Organic Search,Mobile,Chrome,Android 12,412x915,Atlanta US,Returning,8.9,Interest
+SES20240111010,USR10110,2024-01-11 17:36:11,/amazon-redirect,Amazon Redirect,Redirect,7,0,0,1,3,13.8,Organic Search,Mobile,Chrome,Android 12,412x915,Atlanta US,Returning,9.4,Action

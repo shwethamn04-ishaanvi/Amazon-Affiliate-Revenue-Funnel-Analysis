@@ -1,0 +1,151 @@
+conversion_id,click_id,user_id,order_id,timestamp,product_asin,product_title,product_category,order_value,commission_rate,commission_earned,quantity_purchased,conversion_time_hours,customer_type,payment_method,shipping_method,order_status,return_status,customer_lifetime_value,previous_orders_count
+CONV001,CLK001,USR10001,ORD2024010001,2024-01-01 10:30:45,B08N5WRWNW,Echo Dot (4th Gen) Smart speaker with Alexa,Electronics,49.99,0.04,2.0,1,2.25,New,Credit Card,Standard,Delivered,,49.99,0
+CONV002,CLK003,USR10003,ORD2024010002,2024-01-01 14:22:18,B08C1W5N87,Instant Pot Duo 7-in-1 Electric Pressure Cooker,Kitchen,79.95,0.03,2.4,1,3.62,Returning,PayPal,Prime,Delivered,,245.87,3
+CONV003,CLK006,USR10006,ORD2024010003,2024-01-01 16:45:22,B08QRST678,Ring Video Doorbell 4,Home Security,199.99,0.02,4.0,1,3.33,New,Credit Card,Express,Delivered,,199.99,0
+CONV004,CLK007,USR10007,ORD2024010004,2024-01-01 18:15:33,B07TUVW901,Fitbit Charge 5 Fitness Tracker,Health & Fitness,149.95,0.025,3.75,1,3.55,Returning,Debit Card,Standard,Delivered,,389.75,2
+CONV005,CLK009,USR10009,ORD2024010005,2024-01-01 19:28:44,B08ABC567,Keurig K-Mini Coffee Maker,Kitchen,59.99,0.03,1.8,1,2.92,New,Credit Card,Prime,Delivered,,59.99,0
+CONV006,CLK011,USR10011,ORD2024020001,2024-01-02 12:30:25,B09GHI123,Shark Navigator Lift-Away Vacuum,Home & Garden,179.99,0.025,4.5,1,3.75,Returning,PayPal,Standard,Delivered,,456.78,4
+CONV007,CLK013,USR10013,ORD2024020002,2024-01-02 15:45:12,B07MNO789,Cuisinart Air Fryer Toaster Oven,Kitchen,199.95,0.03,6.0,1,5.49,New,Credit Card,Express,Delivered,,199.95,0
+CONV008,CLK014,USR10014,ORD2024020003,2024-01-02 17:22:33,B09PQR012,Apple Watch Series 8,Electronics,399.0,0.02,7.98,1,5.99,Returning,Apple Pay,Prime,Delivered,,1245.67,5
+CONV009,CLK015,USR10015,ORD2024020004,2024-01-02 20:15:44,B08STU345,Dyson V8 Cordless Vacuum,Home & Garden,349.99,0.025,8.75,1,6.67,New,Credit Card,Standard,Delivered,,349.99,0
+CONV010,CLK018,USR10018,ORD2024020005,2024-01-02 22:30:15,B08BCD234,"Samsung 55"" 4K Smart TV",Electronics,497.99,0.02,9.96,1,6.62,Returning,Credit Card,White Glove,Delivered,,1567.89,3
+CONV011,CLK002,USR10002,ORD2024010006,2024-01-01 11:45:30,B07FZ8S74R,Fire TV Stick 4K streaming device,Electronics,39.99,0.04,1.6,1,2.38,New,Amazon Pay,Prime,Delivered,,39.99,0
+CONV012,CLK004,USR10004,ORD2024010007,2024-01-01 15:22:18,B07HGJKL12,Apple AirPods Pro (2nd Generation),Electronics,249.0,0.02,4.98,1,3.85,Returning,Credit Card,Express,Delivered,,678.45,2
+CONV013,CLK005,USR10005,ORD2024010008,2024-01-01 16:33:25,B09MNOP345,Ninja Foodi Personal Blender,Kitchen,79.99,0.03,2.4,1,4.25,New,PayPal,Standard,Delivered,,79.99,0
+CONV014,CLK008,USR10008,ORD2024010009,2024-01-01 20:45:12,B09XYZ234,Sony WH-1000XM4 Wireless Headphones,Electronics,348.0,0.02,6.96,1,4.82,Returning,Credit Card,Prime,Delivered,,892.34,4
+CONV015,CLK010,USR10010,ORD2024010010,2024-01-01 21:15:33,B07DEF890,Anker Portable Charger PowerCore 10000,Electronics,25.99,0.04,1.04,2,3.92,New,Debit Card,Standard,Delivered,,25.99,0
+CONV016,CLK012,USR10012,ORD2024020006,2024-01-02 13:45:18,B08JKL456,Roku Ultra 4K Streaming Device,Electronics,99.99,0.04,4.0,1,4.25,Returning,Credit Card,Prime,Delivered,,234.56,1
+CONV017,CLK016,USR10016,ORD2024020007,2024-01-02 18:30:44,B07VWX678,Bose QuietComfort 45 Headphones,Electronics,329.0,0.02,6.58,1,4.92,New,PayPal,Express,Delivered,,329.0,0
+CONV018,CLK017,USR10017,ORD2024020008,2024-01-02 19:22:15,B09YZA901,Ninja Creami Ice Cream Maker,Kitchen,199.99,0.03,6.0,1,4.78,Returning,Credit Card,Standard,Delivered,,567.89,2
+CONV019,CLK019,USR10019,ORD2024020009,2024-01-02 21:45:33,B07EFG567,Vitamix 5200 Blender,Kitchen,449.95,0.025,11.25,1,5.02,New,Credit Card,Prime,Delivered,,449.95,0
+CONV020,CLK020,USR10020,ORD2024020010,2024-01-02 23:15:22,B09HIJ890,Garmin Forerunner 245 GPS Watch,Health & Fitness,299.99,0.025,7.5,1,5.52,Returning,Amazon Pay,Express,Delivered,,789.45,3
+CONV021,,USR10021,ORD2024030001,2024-01-03 09:30:15,B08N5WRWNW,Echo Dot (4th Gen) Smart speaker with Alexa,Electronics,49.99,0.04,2.0,2,0.0,Direct,Credit Card,Prime,Delivered,,149.97,1
+CONV022,,USR10022,ORD2024030002,2024-01-03 11:45:22,B07FZ8S74R,Fire TV Stick 4K streaming device,Electronics,39.99,0.04,1.6,1,0.0,Direct,PayPal,Standard,Delivered,,39.99,0
+CONV023,,USR10023,ORD2024030003,2024-01-03 14:22:33,B08C1W5N87,Instant Pot Duo 7-in-1 Electric Pressure Cooker,Kitchen,79.95,0.03,2.4,1,0.0,Direct,Credit Card,Express,Delivered,,79.95,0
+CONV024,,USR10024,ORD2024030004,2024-01-03 16:15:44,B07HGJKL12,Apple AirPods Pro (2nd Generation),Electronics,249.0,0.02,4.98,1,0.0,Direct,Apple Pay,Prime,Delivered,,249.0,0
+CONV025,,USR10025,ORD2024030005,2024-01-03 18:30:55,B09MNOP345,Ninja Foodi Personal Blender,Kitchen,79.99,0.03,2.4,1,0.0,Direct,Credit Card,Standard,Delivered,,79.99,0
+CONV026,CLK001,USR10001,ORD2024040001,2024-01-04 10:22:18,B07FZ8S74R,Fire TV Stick 4K streaming device,Electronics,39.99,0.04,1.6,1,74.12,Returning,Credit Card,Prime,Delivered,,89.98,1
+CONV027,CLK003,USR10003,ORD2024040002,2024-01-04 12:45:33,B09GHI123,Shark Navigator Lift-Away Vacuum,Home & Garden,179.99,0.025,4.5,1,70.38,Returning,PayPal,Standard,Delivered,,425.86,4
+CONV028,CLK006,USR10006,ORD2024040003,2024-01-04 15:30:44,B08ABC567,Keurig K-Mini Coffee Maker,Kitchen,59.99,0.03,1.8,1,71.75,Returning,Credit Card,Express,Delivered,,259.98,1
+CONV029,CLK007,USR10007,ORD2024040004,2024-01-04 17:15:22,B09XYZ234,Sony WH-1000XM4 Wireless Headphones,Electronics,348.0,0.02,6.96,1,72.99,Returning,Debit Card,Prime,Delivered,,737.75,3
+CONV030,CLK009,USR10009,ORD2024040005,2024-01-04 19:45:15,B08STU345,Dyson V8 Cordless Vacuum,Home & Garden,349.99,0.025,8.75,1,75.28,Returning,Credit Card,White Glove,Delivered,,409.98,1
+CONV031,CLK021,USR10021,ORD2024050001,2024-01-05 10:30:22,B08N5WRWNW,Echo Dot (4th Gen) Smart speaker with Alexa,Electronics,49.99,0.04,2.0,1,2.3,New,Credit Card,Prime,Delivered,,49.99,0
+CONV032,CLK023,USR10023,ORD2024050002,2024-01-05 14:22:18,B08C1W5N87,Instant Pot Duo 7-in-1 Electric Pressure Cooker,Kitchen,79.95,0.03,2.4,1,3.57,New,PayPal,Standard,Delivered,,79.95,0
+CONV033,CLK025,USR10025,ORD2024050003,2024-01-05 16:45:33,B09MNOP345,Ninja Foodi Personal Blender,Kitchen,79.99,0.03,2.4,1,4.38,New,Credit Card,Express,Delivered,,79.99,0
+CONV034,CLK027,USR10027,ORD2024050004,2024-01-05 18:15:44,B07TUVW901,Fitbit Charge 5 Fitness Tracker,Health & Fitness,149.95,0.025,3.75,1,3.95,New,Debit Card,Prime,Delivered,,149.95,0
+CONV035,CLK029,USR10029,ORD2024050005,2024-01-05 20:30:15,B08ABC567,Keurig K-Mini Coffee Maker,Kitchen,59.99,0.03,1.8,1,3.75,New,Credit Card,Standard,Delivered,,59.99,0
+CONV036,CLK031,USR10031,ORD2024060001,2024-01-06 12:45:22,B09GHI123,Shark Navigator Lift-Away Vacuum,Home & Garden,179.99,0.025,4.5,1,4.5,Returning,PayPal,Standard,Delivered,,179.99,0
+CONV037,CLK033,USR10033,ORD2024060002,2024-01-06 15:22:33,B07MNO789,Cuisinart Air Fryer Toaster Oven,Kitchen,199.95,0.03,6.0,1,4.95,New,Credit Card,Express,Delivered,,199.95,0
+CONV038,CLK035,USR10035,ORD2024060003,2024-01-06 18:45:15,B08STU345,Dyson V8 Cordless Vacuum,Home & Garden,349.99,0.025,8.75,1,5.92,New,Credit Card,White Glove,Delivered,,349.99,0
+CONV039,CLK037,USR10037,ORD2024060004,2024-01-06 20:22:44,B09YZA901,Ninja Creami Ice Cream Maker,Kitchen,199.99,0.03,6.0,1,5.62,New,PayPal,Standard,Delivered,,199.99,0
+CONV040,CLK039,USR10039,ORD2024060005,2024-01-06 22:15:33,B07EFG567,Vitamix 5200 Blender,Kitchen,449.95,0.025,11.25,1,5.7,New,Credit Card,Prime,Delivered,,449.95,0
+CONV041,CLK041,USR10041,ORD2024070001,2024-01-07 11:30:45,B08EFG123,Instant Vortex Plus 4-Quart Air Fryer,Kitchen,79.99,0.03,2.4,1,3.13,New,Credit Card,Prime,Delivered,,79.99,0
+CONV042,CLK043,USR10043,ORD2024070002,2024-01-07 14:45:22,B09JKL789,Breville Barista Express Espresso Machine,Kitchen,699.95,0.025,17.5,1,3.95,New,Credit Card,White Glove,Delivered,,699.95,0
+CONV043,CLK045,USR10045,ORD2024070003,2024-01-07 17:22:18,B07PQR345,Theragun Elite Percussive Therapy Device,Health & Fitness,399.0,0.02,7.98,1,5.12,New,PayPal,Express,Delivered,,399.0,0
+CONV044,CLK047,USR10047,ORD2024070004,2024-01-07 19:45:33,B07FZ8S74R,Fire TV Stick 4K streaming device,Electronics,39.99,0.04,1.6,1,5.37,New,Amazon Pay,Prime,Delivered,,39.99,0
+CONV045,CLK049,USR10049,ORD2024070005,2024-01-07 21:30:15,B07HGJKL12,Apple AirPods Pro (2nd Generation),Electronics,249.0,0.02,4.98,1,5.2,New,Apple Pay,Express,Delivered,,249.0,0
+CONV046,CLK051,USR10051,ORD2024080001,2024-01-08 13:22:44,B08QRST678,Ring Video Doorbell 4,Home Security,199.99,0.02,4.0,1,4.62,New,Credit Card,Standard,Delivered,,199.99,0
+CONV047,CLK053,USR10053,ORD2024080002,2024-01-08 16:45:15,B09XYZ234,Sony WH-1000XM4 Wireless Headphones,Electronics,348.0,0.02,6.96,1,6.17,New,Credit Card,Prime,Delivered,,348.0,0
+CONV048,CLK055,USR10055,ORD2024080003,2024-01-08 18:30:22,B07DEF890,Anker Portable Charger PowerCore 10000,Electronics,25.99,0.04,1.04,2,5.08,New,Debit Card,Standard,Delivered,,51.98,0
+CONV049,CLK057,USR10057,ORD2024080004,2024-01-08 20:45:33,B08JKL456,Roku Ultra 4K Streaming Device,Electronics,99.99,0.04,4.0,1,6.45,New,Credit Card,Prime,Delivered,,99.99,0
+CONV050,CLK059,USR10059,ORD2024080005,2024-01-08 22:22:18,B09PQR012,Apple Watch Series 8,Electronics,399.0,0.02,7.98,1,5.95,New,Apple Pay,Express,Delivered,,399.0,0
+CONV051,CLK061,USR10061,ORD2024090001,2024-01-09 11:45:22,B07VWX678,Bose QuietComfort 45 Headphones,Electronics,329.0,0.02,6.58,1,3.55,New,Credit Card,Prime,Delivered,,329.0,0
+CONV052,CLK063,USR10063,ORD2024090002,2024-01-09 14:30:15,B08BCD234,"Samsung 55"" 4K Smart TV",Electronics,497.99,0.02,9.96,1,3.75,New,Credit Card,White Glove,Delivered,,497.99,0
+CONV053,CLK065,USR10065,ORD2024090003,2024-01-09 17:22:44,B09HIJ890,Garmin Forerunner 245 GPS Watch,Health & Fitness,299.99,0.025,7.5,1,5.0,New,Amazon Pay,Standard,Delivered,,299.99,0
+CONV054,CLK067,USR10067,ORD2024090004,2024-01-09 19:45:33,B07GHI456,Anova Culinary Sous Vide Precision Cooker,Kitchen,149.99,0.035,5.25,1,5.45,New,PayPal,Express,Delivered,,149.99,0
+CONV055,CLK069,USR10069,ORD2024090005,2024-01-09 21:30:18,B08MNO012,Philips Sonicare ProtectiveClean 6100,Health & Personal Care,149.99,0.03,4.5,1,5.08,New,Credit Card,Prime,Delivered,,149.99,0
+CONV056,CLK071,USR10071,ORD2024100001,2024-01-10 12:22:33,B08N5WRWNW,Echo Dot (4th Gen) Smart speaker with Alexa,Electronics,49.99,0.04,2.0,1,3.78,New,Credit Card,Prime,Delivered,,49.99,0
+CONV057,CLK073,USR10073,ORD2024100002,2024-01-10 15:45:44,B08C1W5N87,Instant Pot Duo 7-in-1 Electric Pressure Cooker,Kitchen,79.95,0.03,2.4,1,5.38,New,PayPal,Standard,Delivered,,79.95,0
+CONV058,CLK075,USR10075,ORD2024100003,2024-01-10 17:30:22,B09MNOP345,Ninja Foodi Personal Blender,Kitchen,79.99,0.03,2.4,1,5.2,New,Credit Card,Express,Delivered,,79.99,0
+CONV059,CLK077,USR10077,ORD2024100004,2024-01-10 19:22:15,B07TUVW901,Fitbit Charge 5 Fitness Tracker,Health & Fitness,149.95,0.025,3.75,1,4.98,New,Debit Card,Prime,Delivered,,149.95,0
+CONV060,CLK079,USR10079,ORD2024100005,2024-01-10 21:45:33,B08ABC567,Keurig K-Mini Coffee Maker,Kitchen,59.99,0.03,1.8,1,5.33,New,Credit Card,Standard,Delivered,,59.99,0
+CONV061,CLK081,USR10081,ORD2024110001,2024-01-11 12:30:45,B09GHI123,Shark Navigator Lift-Away Vacuum,Home & Garden,179.99,0.025,4.5,1,4.25,Returning,PayPal,Standard,Delivered,,359.98,1
+CONV062,CLK083,USR10083,ORD2024110002,2024-01-11 15:22:18,B07MNO789,Cuisinart Air Fryer Toaster Oven,Kitchen,199.95,0.03,6.0,1,4.57,New,Credit Card,Express,Delivered,,199.95,0
+CONV063,CLK085,USR10085,ORD2024110003,2024-01-11 18:45:33,B08STU345,Dyson V8 Cordless Vacuum,Home & Garden,349.99,0.025,8.75,1,5.45,New,Credit Card,White Glove,Delivered,,349.99,0
+CONV064,CLK087,USR10087,ORD2024110004,2024-01-11 20:30:22,B09YZA901,Ninja Creami Ice Cream Maker,Kitchen,199.99,0.03,6.0,1,5.92,New,PayPal,Standard,Delivered,,199.99,0
+CONV065,CLK089,USR10089,ORD2024110005,2024-01-11 22:15:44,B07EFG567,Vitamix 5200 Blender,Kitchen,449.95,0.025,11.25,1,5.7,New,Credit Card,Prime,Delivered,,449.95,0
+CONV066,CLK091,USR10091,ORD2024120001,2024-01-12 11:45:22,B08EFG123,Instant Vortex Plus 4-Quart Air Fryer,Kitchen,79.99,0.03,2.4,1,3.38,New,Credit Card,Prime,Delivered,,79.99,0
+CONV067,CLK093,USR10093,ORD2024120002,2024-01-12 14:30:15,B09JKL789,Breville Barista Express Espresso Machine,Kitchen,699.95,0.025,17.5,1,4.2,New,Credit Card,White Glove,Delivered,,699.95,0
+CONV068,CLK095,USR10095,ORD2024120003,2024-01-12 17:22:44,B07PQR345,Theragun Elite Percussive Therapy Device,Health & Fitness,399.0,0.02,7.98,1,4.95,New,PayPal,Express,Delivered,,399.0,0
+CONV069,CLK097,USR10097,ORD2024120004,2024-01-12 19:45:33,B07FZ8S74R,Fire TV Stick 4K streaming device,Electronics,39.99,0.04,1.6,1,5.33,New,Amazon Pay,Prime,Delivered,,39.99,0
+CONV070,CLK099,USR10099,ORD2024120005,2024-01-12 21:30:18,B07HGJKL12,Apple AirPods Pro (2nd Generation),Electronics,249.0,0.02,4.98,1,5.2,New,Apple Pay,Express,Delivered,,249.0,0
+CONV071,,USR10101,ORD2024130001,2024-01-13 09:15:22,B08N5WRWNW,Echo Dot (4th Gen) Smart speaker with Alexa,Electronics,49.99,0.04,2.0,2,0.0,Direct,Credit Card,Prime,Delivered,,99.98,0
+CONV072,,USR10102,ORD2024130002,2024-01-13 11:30:45,B07FZ8S74R,Fire TV Stick 4K streaming device,Electronics,39.99,0.04,1.6,1,0.0,Direct,PayPal,Standard,Delivered,,39.99,0
+CONV073,,USR10103,ORD2024130003,2024-01-13 14:22:33,B08C1W5N87,Instant Pot Duo 7-in-1 Electric Pressure Cooker,Kitchen,79.95,0.03,2.4,1,0.0,Direct,Credit Card,Express,Delivered,,79.95,0
+CONV074,,USR10104,ORD2024130004,2024-01-13 16:45:15,B07HGJKL12,Apple AirPods Pro (2nd Generation),Electronics,249.0,0.02,4.98,1,0.0,Direct,Apple Pay,Prime,Delivered,,249.0,0
+CONV075,,USR10105,ORD2024130005,2024-01-13 18:30:44,B09MNOP345,Ninja Foodi Personal Blender,Kitchen,79.99,0.03,2.4,1,0.0,Direct,Credit Card,Standard,Delivered,,79.99,0
+CONV076,CLK022,USR10022,ORD2024140001,2024-01-14 10:22:18,B07FZ8S74R,Fire TV Stick 4K streaming device,Electronics,39.99,0.04,1.6,1,120.95,Returning,Credit Card,Prime,Delivered,,79.98,1
+CONV077,CLK024,USR10024,ORD2024140002,2024-01-14 12:45:33,B07HGJKL12,Apple AirPods Pro (2nd Generation),Electronics,249.0,0.02,4.98,1,121.2,Returning,Apple Pay,Express,Delivered,,498.0,1
+CONV078,CLK026,USR10026,ORD2024140003,2024-01-14 15:30:44,B08QRST678,Ring Video Doorbell 4,Home Security,199.99,0.02,4.0,1,121.75,Returning,Credit Card,Standard,Delivered,,399.98,1
+CONV079,CLK028,USR10028,ORD2024140004,2024-01-14 17:15:22,B09XYZ234,Sony WH-1000XM4 Wireless Headphones,Electronics,348.0,0.02,6.96,1,121.72,Returning,Credit Card,Prime,Delivered,,696.0,1
+CONV080,CLK030,USR10030,ORD2024140005,2024-01-14 19:45:15,B07DEF890,Anker Portable Charger PowerCore 10000,Electronics,25.99,0.04,1.04,3,122.28,Returning,Debit Card,Standard,Delivered,,77.97,1
+CONV081,CLK032,USR10032,ORD2024150001,2024-01-15 11:30:25,B08JKL456,Roku Ultra 4K Streaming Device,Electronics,99.99,0.04,4.0,1,121.8,Returning,Credit Card,Prime,Delivered,,199.98,1
+CONV082,CLK034,USR10034,ORD2024150002,2024-01-15 14:22:33,B09PQR012,Apple Watch Series 8,Electronics,399.0,0.02,7.98,1,122.78,Returning,Apple Pay,Express,Delivered,,798.0,1
+CONV083,CLK036,USR10036,ORD2024150003,2024-01-15 16:45:18,B07VWX678,Bose QuietComfort 45 Headphones,Electronics,329.0,0.02,6.58,1,123.38,Returning,Credit Card,Prime,Delivered,,658.0,1
+CONV084,CLK038,USR10038,ORD2024150004,2024-01-15 18:30:41,B08BCD234,"Samsung 55"" 4K Smart TV",Electronics,497.99,0.02,9.96,1,123.2,Returning,Credit Card,White Glove,Delivered,,995.98,1
+CONV085,CLK040,USR10040,ORD2024150005,2024-01-15 20:15:22,B09HIJ890,Garmin Forerunner 245 GPS Watch,Health & Fitness,299.99,0.025,7.5,1,122.5,Returning,Amazon Pay,Standard,Delivered,,599.98,1
+CONV086,CLK042,USR10042,ORD2024160001,2024-01-16 12:45:33,B07GHI456,Anova Culinary Sous Vide Precision Cooker,Kitchen,149.99,0.035,5.25,1,168.17,Returning,PayPal,Express,Delivered,,299.98,1
+CONV087,CLK044,USR10044,ORD2024160002,2024-01-16 15:22:18,B08MNO012,Philips Sonicare ProtectiveClean 6100,Health & Personal Care,149.99,0.03,4.5,1,168.0,Returning,Credit Card,Prime,Delivered,,299.98,1
+CONV088,CLK046,USR10046,ORD2024160003,2024-01-16 17:30:15,B08N5WRWNW,Echo Dot (4th Gen) Smart speaker with Alexa,Electronics,49.99,0.04,2.0,2,168.08,Returning,Credit Card,Prime,Delivered,,149.97,1
+CONV089,CLK048,USR10048,ORD2024160004,2024-01-16 19:45:44,B08C1W5N87,Instant Pot Duo 7-in-1 Electric Pressure Cooker,Kitchen,79.95,0.03,2.4,1,168.05,Returning,PayPal,Standard,Delivered,,159.9,1
+CONV090,CLK050,USR10050,ORD2024160005,2024-01-16 21:22:33,B09MNOP345,Ninja Foodi Personal Blender,Kitchen,79.99,0.03,2.4,1,167.82,Returning,Credit Card,Express,Delivered,,159.98,1
+CONV091,CLK101,USR10101,ORD2024170001,2024-01-17 12:30:22,B08QRST678,Ring Video Doorbell 4,Home Security,199.99,0.02,4.0,1,4.25,New,Credit Card,Standard,Delivered,,199.99,0
+CONV092,CLK103,USR10103,ORD2024170002,2024-01-17 15:22:18,B09XYZ234,Sony WH-1000XM4 Wireless Headphones,Electronics,348.0,0.02,6.96,1,4.57,New,Credit Card,Prime,Delivered,,348.0,0
+CONV093,CLK105,USR10105,ORD2024170003,2024-01-17 17:45:33,B07DEF890,Anker Portable Charger PowerCore 10000,Electronics,25.99,0.04,1.04,2,5.05,New,Debit Card,Standard,Delivered,,51.98,0
+CONV094,CLK107,USR10107,ORD2024170004,2024-01-17 19:30:15,B08JKL456,Roku Ultra 4K Streaming Device,Electronics,99.99,0.04,4.0,1,4.92,New,Credit Card,Prime,Delivered,,99.99,0
+CONV095,CLK109,USR10109,ORD2024170005,2024-01-17 21:22:44,B09PQR012,Apple Watch Series 8,Electronics,399.0,0.02,7.98,1,4.62,New,Apple Pay,Express,Delivered,,399.0,0
+CONV096,CLK111,USR10111,ORD2024180001,2024-01-18 11:45:22,B07VWX678,Bose QuietComfort 45 Headphones,Electronics,329.0,0.02,6.58,1,3.38,New,Credit Card,Prime,Delivered,,329.0,0
+CONV097,CLK113,USR10113,ORD2024180002,2024-01-18 14:30:15,B08BCD234,"Samsung 55"" 4K Smart TV",Electronics,497.99,0.02,9.96,1,4.2,New,Credit Card,White Glove,Delivered,,497.99,0
+CONV098,CLK115,USR10115,ORD2024180003,2024-01-18 16:22:44,B09HIJ890,Garmin Forerunner 245 GPS Watch,Health & Fitness,299.99,0.025,7.5,1,4.0,New,Amazon Pay,Standard,Delivered,,299.99,0
+CONV099,CLK117,USR10117,ORD2024180004,2024-01-18 18:45:33,B07GHI456,Anova Culinary Sous Vide Precision Cooker,Kitchen,149.99,0.035,5.25,1,4.38,New,PayPal,Express,Delivered,,149.99,0
+CONV100,CLK119,USR10119,ORD2024180005,2024-01-18 20:30:18,B08MNO012,Philips Sonicare ProtectiveClean 6100,Health & Personal Care,149.99,0.03,4.5,1,4.2,New,Credit Card,Prime,Delivered,,149.99,0
+CONV101,CLK121,USR10121,ORD2024190001,2024-01-19 12:45:33,B08N5WRWNW,Echo Dot (4th Gen) Smart speaker with Alexa,Electronics,49.99,0.04,2.0,1,4.55,New,Credit Card,Prime,Delivered,,49.99,0
+CONV102,CLK123,USR10123,ORD2024190002,2024-01-19 15:30:22,B08C1W5N87,Instant Pot Duo 7-in-1 Electric Pressure Cooker,Kitchen,79.95,0.03,2.4,1,4.75,New,PayPal,Standard,Delivered,,79.95,0
+CONV103,CLK125,USR10125,ORD2024190003,2024-01-19 17:22:15,B09MNOP345,Ninja Foodi Personal Blender,Kitchen,79.99,0.03,2.4,1,5.07,New,Credit Card,Express,Delivered,,79.99,0
+CONV104,CLK127,USR10127,ORD2024190004,2024-01-19 19:45:44,B07TUVW901,Fitbit Charge 5 Fitness Tracker,Health & Fitness,149.95,0.025,3.75,1,5.38,New,Debit Card,Prime,Delivered,,149.95,0
+CONV105,CLK129,USR10129,ORD2024190005,2024-01-19 21:30:33,B08ABC567,Keurig K-Mini Coffee Maker,Kitchen,59.99,0.03,1.8,1,5.08,New,Credit Card,Standard,Delivered,,59.99,0
+CONV106,CLK131,USR10131,ORD2024200001,2024-01-20 12:22:18,B09GHI123,Shark Navigator Lift-Away Vacuum,Home & Garden,179.99,0.025,4.5,1,3.78,New,PayPal,Standard,Delivered,,179.99,0
+CONV107,CLK133,USR10133,ORD2024200002,2024-01-20 15:45:44,B07MNO789,Cuisinart Air Fryer Toaster Oven,Kitchen,199.95,0.03,6.0,1,4.95,New,Credit Card,Express,Delivered,,199.95,0
+CONV108,CLK135,USR10135,ORD2024200003,2024-01-20 17:30:22,B08STU345,Dyson V8 Cordless Vacuum,Home & Garden,349.99,0.025,8.75,1,4.78,New,Credit Card,White Glove,Delivered,,349.99,0
+CONV109,CLK137,USR10137,ORD2024200004,2024-01-20 19:22:15,B09YZA901,Ninja Creami Ice Cream Maker,Kitchen,199.99,0.03,6.0,1,4.78,New,PayPal,Standard,Delivered,,199.99,0
+CONV110,CLK139,USR10139,ORD2024200005,2024-01-20 21:45:33,B07EFG567,Vitamix 5200 Blender,Kitchen,449.95,0.025,11.25,1,5.38,New,Credit Card,Prime,Delivered,,449.95,0
+CONV111,CLK141,USR10141,ORD2024210001,2024-01-21 11:30:45,B08EFG123,Instant Vortex Plus 4-Quart Air Fryer,Kitchen,79.99,0.03,2.4,1,3.25,New,Credit Card,Prime,Delivered,,79.99,0
+CONV112,CLK143,USR10143,ORD2024210002,2024-01-21 14:22:33,B09JKL789,Breville Barista Express Espresso Machine,Kitchen,699.95,0.025,17.5,1,3.57,New,Credit Card,White Glove,Delivered,,699.95,0
+CONV113,CLK145,USR10145,ORD2024210003,2024-01-21 16:45:15,B07PQR345,Theragun Elite Percussive Therapy Device,Health & Fitness,399.0,0.02,7.98,1,4.05,New,PayPal,Express,Delivered,,399.0,0
+CONV114,CLK147,USR10147,ORD2024210004,2024-01-21 18:30:44,B09VWX234,iPad Air (5th Generation),Electronics,599.0,0.02,11.98,1,3.92,New,Apple Pay,Prime,Delivered,,599.0,0
+CONV115,CLK149,USR10149,ORD2024210005,2024-01-21 20:22:18,B07BCD890,Roomba i7+ Robot Vacuum,Home & Garden,799.99,0.02,16.0,1,3.62,New,Credit Card,White Glove,Delivered,,799.99,0
+CONV116,CLK151,USR10151,ORD2024220001,2024-01-22 12:45:22,B08EFG456,Hydro Flask Water Bottle,Sports & Outdoors,39.95,0.04,1.6,1,4.38,New,Credit Card,Standard,Delivered,,39.95,0
+CONV117,CLK153,USR10153,ORD2024220002,2024-01-22 15:30:15,B09HIJ012,Kindle Paperwhite (11th Generation),Electronics,139.99,0.04,5.6,1,5.2,New,Amazon Pay,Prime,Delivered,,139.99,0
+CONV118,CLK155,USR10155,ORD2024220003,2024-01-22 17:22:44,B07MNO678,Yeti Rambler Tumbler,Kitchen,34.99,0.04,1.4,1,5.0,New,Credit Card,Standard,Delivered,,34.99,0
+CONV119,CLK157,USR10157,ORD2024220004,2024-01-22 19:45:33,B08STU234,Lululemon Align High-Rise Pant,Clothing,128.0,0.03,3.84,1,5.33,New,Credit Card,Express,Delivered,,128.0,0
+CONV120,CLK159,USR10159,ORD2024220005,2024-01-22 21:30:18,B09YZA890,Allbirds Tree Runners,Shoes,98.0,0.03,2.94,1,5.2,New,PayPal,Standard,Delivered,,98.0,0
+CONV121,CLK161,USR10161,ORD2024230001,2024-01-23 12:22:33,B07DEF456,Oura Ring Gen3,Health & Fitness,299.0,0.025,7.48,1,4.12,New,Credit Card,Express,Delivered,,299.0,0
+CONV122,CLK163,USR10163,ORD2024230002,2024-01-23 15:45:44,B08JKL012,Sonos One Smart Speaker,Electronics,219.0,0.02,4.38,1,5.62,New,Credit Card,Prime,Delivered,,219.0,0
+CONV123,CLK165,USR10165,ORD2024230003,2024-01-23 17:30:22,B09PQR678,Oculus Quest 2 VR Headset,Electronics,399.99,0.02,8.0,1,4.78,New,PayPal,Express,Delivered,,399.99,0
+CONV124,CLK167,USR10167,ORD2024230004,2024-01-23 19:22:15,B07VWX234,Brita Water Filter Pitcher,Kitchen,29.99,0.04,1.2,1,4.78,New,Credit Card,Standard,Delivered,,29.99,0
+CONV125,CLK169,USR10169,ORD2024230005,2024-01-23 21:45:33,B08ABC890,Bissell CrossWave Pet Pro,Home & Garden,249.99,0.025,6.25,1,5.0,New,Credit Card,Standard,Delivered,,249.99,0
+CONV126,CLK171,USR10171,ORD2024240001,2024-01-24 11:30:45,B09GHI456,Razer DeathAdder V3 Gaming Mouse,Electronics,99.99,0.03,3.0,1,3.13,New,Credit Card,Prime,Delivered,,99.99,0
+CONV127,CLK173,USR10173,ORD2024240002,2024-01-24 14:22:33,B07MNO012,Logitech MX Master 3 Mouse,Electronics,99.99,0.03,3.0,1,3.87,New,PayPal,Standard,Delivered,,99.99,0
+CONV128,CLK175,USR10175,ORD2024240003,2024-01-24 16:45:15,B08STU678,Webcam 1080P HD,Electronics,69.99,0.03,2.1,1,4.95,New,Credit Card,Express,Delivered,,69.99,0
+CONV129,CLK177,USR10177,ORD2024240004,2024-01-24 18:30:44,B09YZA234,Ring Alarm 8-piece Kit,Home Security,199.99,0.02,4.0,1,4.08,New,Credit Card,Standard,Delivered,,199.99,0
+CONV130,CLK179,USR10179,ORD2024240005,2024-01-24 20:22:18,B07DEF890,Arlo Pro 4 Security Camera,Home Security,199.99,0.02,4.0,1,4.07,New,Amazon Pay,Prime,Delivered,,199.99,0
+CONV131,CLK181,USR10181,ORD2024250001,2024-01-25 12:45:22,B08JKL456,Waterpik Water Flosser,Health & Personal Care,79.99,0.03,2.4,1,4.5,New,Credit Card,Standard,Delivered,,79.99,0
+CONV132,CLK183,USR10183,ORD2024250002,2024-01-25 15:30:15,B09PQR012,Herman Miller Aeron Chair,Furniture,1395.0,0.015,20.93,1,4.7,New,Credit Card,White Glove,Delivered,,1395.0,0
+CONV133,CLK185,USR10185,ORD2024250003,2024-01-25 17:22:44,B08N5WRWNW,Echo Dot (4th Gen) Smart speaker with Alexa,Electronics,49.99,0.04,2.0,2,4.67,Returning,Credit Card,Prime,Delivered,,99.98,1
+CONV134,CLK187,USR10187,ORD2024250004,2024-01-25 19:45:33,B08C1W5N87,Instant Pot Duo 7-in-1 Electric Pressure Cooker,Kitchen,79.95,0.03,2.4,1,5.33,Returning,PayPal,Standard,Delivered,,159.9,1
+CONV135,CLK189,USR10189,ORD2024250005,2024-01-25 21:30:18,B09MNOP345,Ninja Foodi Personal Blender,Kitchen,79.99,0.03,2.4,1,4.78,Returning,Credit Card,Express,Delivered,,239.97,2
+CONV136,CLK191,USR10191,ORD2024260001,2024-01-26 12:22:33,B07TUVW901,Fitbit Charge 5 Fitness Tracker,Health & Fitness,149.95,0.025,3.75,1,3.67,New,Debit Card,Prime,Delivered,,149.95,0
+CONV137,CLK193,USR10193,ORD2024260002,2024-01-26 15:45:44,B08ABC567,Keurig K-Mini Coffee Maker,Kitchen,59.99,0.03,1.8,1,5.45,New,Credit Card,Standard,Delivered,,59.99,0
+CONV138,CLK195,USR10195,ORD2024260003,2024-01-26 17:30:22,B09GHI123,Shark Navigator Lift-Away Vacuum,Home & Garden,179.99,0.025,4.5,1,4.7,New,PayPal,Standard,Delivered,,179.99,0
+CONV139,CLK197,USR10197,ORD2024260004,2024-01-26 19:22:15,B07MNO789,Cuisinart Air Fryer Toaster Oven,Kitchen,199.95,0.03,6.0,1,4.95,New,Credit Card,Express,Delivered,,199.95,0
+CONV140,CLK199,USR10199,ORD2024260005,2024-01-26 21:45:33,B08STU345,Dyson V8 Cordless Vacuum,Home & Garden,349.99,0.025,8.75,1,5.45,New,Credit Card,White Glove,Delivered,,349.99,0
+CONV141,,USR10201,ORD2024270001,2024-01-27 09:15:22,B08N5WRWNW,Echo Dot (4th Gen) Smart speaker with Alexa,Electronics,49.99,0.04,2.0,1,0.0,Direct,Credit Card,Prime,Delivered,,49.99,0
+CONV142,,USR10202,ORD2024270002,2024-01-27 11:30:45,B07FZ8S74R,Fire TV Stick 4K streaming device,Electronics,39.99,0.04,1.6,1,0.0,Direct,PayPal,Standard,Delivered,,39.99,0
+CONV143,,USR10203,ORD2024270003,2024-01-27 14:22:33,B08C1W5N87,Instant Pot Duo 7-in-1 Electric Pressure Cooker,Kitchen,79.95,0.03,2.4,1,0.0,Direct,Credit Card,Express,Delivered,,79.95,0
+CONV144,,USR10204,ORD2024270004,2024-01-27 16:45:15,B07HGJKL12,Apple AirPods Pro (2nd Generation),Electronics,249.0,0.02,4.98,1,0.0,Direct,Apple Pay,Prime,Delivered,,249.0,0
+CONV145,,USR10205,ORD2024270005,2024-01-27 18:30:44,B09MNOP345,Ninja Foodi Personal Blender,Kitchen,79.99,0.03,2.4,1,0.0,Direct,Credit Card,Standard,Delivered,,79.99,0
+CONV146,CLK102,USR10102,ORD2024280001,2024-01-28 10:22:18,B07TUVW901,Fitbit Charge 5 Fitness Tracker,Health & Fitness,149.95,0.025,3.75,1,408.83,Returning,Debit Card,Prime,Delivered,,299.9,1
+CONV147,CLK104,USR10104,ORD2024280002,2024-01-28 12:45:33,B08ABC567,Keurig K-Mini Coffee Maker,Kitchen,59.99,0.03,1.8,1,409.33,Returning,Credit Card,Standard,Delivered,,119.98,1
+CONV148,CLK106,USR10106,ORD2024280003,2024-01-28 15:30:44,B09GHI123,Shark Navigator Lift-Away Vacuum,Home & Garden,179.99,0.025,4.5,1,410.2,Returning,PayPal,Standard,Delivered,,359.98,1
+CONV149,CLK108,USR10108,ORD2024280004,2024-01-28 17:15:22,B07MNO789,Cuisinart Air Fryer Toaster Oven,Kitchen,199.95,0.03,6.0,1,409.88,Returning,Credit Card,Express,Delivered,,399.9,1
+CONV150,CLK110,USR10110,ORD2024280005,2024-01-28 19:45:15,B08STU345,Dyson V8 Cordless Vacuum,Home & Garden,349.99,0.025,8.75,1,410.22,Returning,Credit Card,White Glove,Delivered,,699.98,1
