@@ -1,0 +1,9 @@
+traffic_source,total_sessions,total_clicks,total_conversions,ctr_percentage,conversion_rate
+"Audio Platform",4,4,3,100.00,75.00
+Direct,4,4,3,100.00,75.00
+"Fitness Platform",6,6,4,100.00,66.67
+"Organic Search",24,24,24,100.00,100.00
+Referral,12,12,6,100.00,50.00
+"Social Media",45,45,39,100.00,86.67
+"Streaming Platform",4,4,2,100.00,50.00
+"Video Platform",11,11,9,100.00,81.82

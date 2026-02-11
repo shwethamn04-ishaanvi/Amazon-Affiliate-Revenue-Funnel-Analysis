@@ -1,0 +1,64 @@
+product_asin,product_title,category,total_clicks,units_sold,total_sales_value,total_commission,performance_status
+B08N5WRWNW,"Echo Dot (4th Gen) Smart speaker with Alexa",Electronics,63,63,3149.3699999999953,126,Converting
+B07FZ8S74R,"Fire TV Stick 4K streaming device",Electronics,56,56,2239.439999999999,89.59999999999994,Converting
+B08C1W5N87,"Instant Pot Duo 7-in-1 Electric Pressure Cooker",Kitchen,63,63,5036.849999999994,151.2000000000002,Converting
+B07HGJKL12,"Apple AirPods Pro (2nd Generation)",Electronics,49,49,12201,244.01999999999984,Converting
+B09MNOP345,"Ninja Foodi Personal Blender",Kitchen,63,63,5039.369999999992,151.2000000000002,Converting
+B08QRST678,"Ring Video Doorbell 4","Home Security",28,28,5599.719999999997,112,Converting
+B07TUVW901,"Fitbit Charge 5 Fitness Tracker","Health & Fitness",42,42,6297.899999999995,157.5,Converting
+B09XYZ234,"Sony WH-1000XM4 Wireless Headphones",Electronics,35,35,12180,243.60000000000008,Converting
+B08ABC567,"Keurig K-Mini Coffee Maker",Kitchen,56,56,3359.4399999999955,100.7999999999999,Converting
+B07DEF890,"Anker Portable Charger PowerCore 10000",Electronics,40,40,2431.5999999999985,65.27999999999999,Converting
+B09GHI123,"Shark Navigator Lift-Away Vacuum","Home & Garden",56,56,10079.439999999991,252,Converting
+B08JKL456,"Roku Ultra 4K Streaming Device",Electronics,40,40,3839.599999999996,147.20000000000002,Converting
+B07MNO789,"Cuisinart Air Fryer Toaster Oven",Kitchen,48,48,9597.6,288,Converting
+B09PQR012,"Apple Watch Series 8",Electronics,40,40,23928,422.8000000000002,Converting
+B08STU345,"Dyson V8 Cordless Vacuum","Home & Garden",56,56,19599.440000000006,490,Converting
+B07VWX678,"Bose QuietComfort 45 Headphones",Electronics,28,28,9212,184.2400000000001,Converting
+B09YZA901,"Ninja Creami Ice Cream Maker",Kitchen,24,24,4799.7599999999975,144,Converting
+B07EFG567,"Vitamix 5200 Blender",Kitchen,24,24,10798.800000000001,270,Converting
+B09HIJ890,"Garmin Forerunner 245 GPS Watch","Health & Fitness",24,24,7199.759999999997,180,Converting
+B08EFG123,"Instant Vortex Plus 4-Quart Air Fryer",Kitchen,15,15,1199.85,35.99999999999999,Converting
+B07GHI456,"Anova Culinary Sous Vide Precision Cooker",Kitchen,15,15,2249.8500000000004,78.75,Converting
+B09JKL789,"Breville Barista Express Espresso Machine",Kitchen,15,15,10499.250000000002,262.5,Converting
+B08MNO012,"Philips Sonicare ProtectiveClean 6100","Health & Personal Care",15,15,2249.8500000000004,67.5,Converting
+B07PQR345,"Theragun Elite Percussive Therapy Device","Health & Fitness",15,15,5985,119.70000000000005,Converting
+B08STU901,"KitchenAid Stand Mixer Artisan Series",Kitchen,2,0,NULL,NULL,"Low Traffic"
+B09VWX234,"iPad Air (5th Generation)",Electronics,1,1,599,11.98,Converting
+B08YZA567,"Ninja Professional Blender BL610",Kitchen,1,0,NULL,NULL,"Low Traffic"
+B07BCD890,"Roomba i7+ Robot Vacuum","Home & Garden",1,1,799.99,16,Converting
+B09DEF123,"MacBook Air M2",Electronics,1,0,NULL,NULL,"Low Traffic"
+B08EFG456,"Hydro Flask Water Bottle","Sports & Outdoors",1,1,39.95,1.6,Converting
+B07GHI789,"AirPods (3rd Generation)",Electronics,1,0,NULL,NULL,"Low Traffic"
+B09HIJ012,"Kindle Paperwhite (11th Generation)",Electronics,1,1,139.99,5.6,Converting
+B08JKL345,"Beats Studio3 Wireless Headphones",Electronics,1,0,NULL,NULL,"Low Traffic"
+B07MNO678,"Yeti Rambler Tumbler",Kitchen,1,1,34.99,1.4,Converting
+B09PQR901,"Nintendo Switch OLED Model",Electronics,1,0,NULL,NULL,"Low Traffic"
+B08STU234,"Lululemon Align High-Rise Pant",Clothing,1,1,128,3.84,Converting
+B07VWX567,"Patagonia Better Sweater Fleece Jacket",Clothing,1,0,NULL,NULL,"Low Traffic"
+B09YZA890,"Allbirds Tree Runners",Shoes,1,1,98,2.94,Converting
+B08ABC123,"Peloton Bike+","Health & Fitness",1,0,NULL,NULL,"Low Traffic"
+B07DEF456,"Oura Ring Gen3","Health & Fitness",1,1,299,7.48,Converting
+B09GHI789,"Tesla Model Y Phone Mount",Automotive,1,0,NULL,NULL,"Low Traffic"
+B08JKL012,"Sonos One Smart Speaker",Electronics,1,1,219,4.38,Converting
+B07MNO345,"Tile Mate Bluetooth Tracker",Electronics,1,0,NULL,NULL,"Low Traffic"
+B09PQR678,"Oculus Quest 2 VR Headset",Electronics,1,1,399.99,8,Converting
+B08STU901,"Nespresso VertuoPlus Coffee Machine",Kitchen,2,0,NULL,NULL,"Low Traffic"
+B07VWX234,"Brita Water Filter Pitcher",Kitchen,1,1,29.99,1.2,Converting
+B09YZA567,"Crock-Pot 6-Quart Slow Cooker",Kitchen,1,0,NULL,NULL,"Low Traffic"
+B08ABC890,"Bissell CrossWave Pet Pro","Home & Garden",1,1,249.99,6.25,Converting
+B07DEF123,"Philips Hue Smart Bulb Starter Kit",Electronics,1,0,NULL,NULL,"Low Traffic"
+B09GHI456,"Razer DeathAdder V3 Gaming Mouse",Electronics,1,1,99.99,3,Converting
+B08JKL789,"Anker PowerWave Wireless Charger",Electronics,1,0,NULL,NULL,"Low Traffic"
+B07MNO012,"Logitech MX Master 3 Mouse",Electronics,1,1,99.99,3,Converting
+B09PQR345,"Keychron K2 Mechanical Keyboard",Electronics,1,0,NULL,NULL,"Low Traffic"
+B08STU678,"Webcam 1080P HD",Electronics,1,1,69.99,2.1,Converting
+B07VWX901,"Blue Yeti USB Microphone",Electronics,1,0,NULL,NULL,"Low Traffic"
+B09YZA234,"Ring Alarm 8-piece Kit","Home Security",1,1,199.99,4,Converting
+B08ABC567,"Nest Learning Thermostat",Electronics,56,56,3359.4399999999955,100.7999999999999,Converting
+B07DEF890,"Arlo Pro 4 Security Camera","Home Security",40,40,2431.5999999999985,65.27999999999999,Converting
+B09GHI123,"Eufy RoboVac 11S","Home & Garden",56,56,10079.439999999991,252,Converting
+B08JKL456,"Waterpik Water Flosser","Health & Personal Care",40,40,3839.599999999996,147.20000000000002,Converting
+B07MNO789,"Ninja Foodi Pressure Cooker",Kitchen,48,48,9597.6,288,Converting
+B09PQR012,"Herman Miller Aeron Chair",Furniture,40,40,23928,422.8000000000002,Converting
+B08STU345,"Steelcase Leap V2 Chair",Furniture,56,56,19599.440000000006,490,Converting
